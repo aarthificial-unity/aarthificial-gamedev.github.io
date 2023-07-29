@@ -1,0 +1,12 @@
+{
+  "articles/intro.html": {
+    "href": "articles/intro.html",
+    "title": "Add your introductions here! | Typewriter",
+    "keywords": "Add your introductions here!"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | Typewriter",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
