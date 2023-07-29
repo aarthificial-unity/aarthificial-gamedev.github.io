@@ -1,3 +1,2157 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: Aarthificial.Typewriter.Attributes
+  name: Aarthificial.Typewriter.Attributes
+  href: api/Aarthificial.Typewriter.Attributes.html
+  commentId: N:Aarthificial.Typewriter.Attributes
+  fullName: Aarthificial.Typewriter.Attributes
+  nameWithType: Aarthificial.Typewriter.Attributes
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute
+  name: EntryFilterAttribute
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html
+  commentId: T:Aarthificial.Typewriter.Attributes.EntryFilterAttribute
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute
+  nameWithType: EntryFilterAttribute
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.AllowEmpty
+  name: AllowEmpty
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_AllowEmpty
+  commentId: P:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.AllowEmpty
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.AllowEmpty
+  nameWithType: EntryFilterAttribute.AllowEmpty
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.AllowEmpty*
+  name: AllowEmpty
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_AllowEmpty_
+  commentId: Overload:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.AllowEmpty
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.AllowEmpty
+  nameWithType: EntryFilterAttribute.AllowEmpty
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Base
+  name: Base
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_Base
+  commentId: P:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Base
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Base
+  nameWithType: EntryFilterAttribute.Base
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Base*
+  name: Base
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_Base_
+  commentId: Overload:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Base
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Base
+  nameWithType: EntryFilterAttribute.Base
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Copy
+  name: Copy()
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_Copy
+  commentId: M:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Copy
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Copy()
+  nameWithType: EntryFilterAttribute.Copy()
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Copy*
+  name: Copy
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_Copy_
+  commentId: Overload:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Copy
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Copy
+  nameWithType: EntryFilterAttribute.Copy
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.PreferredType
+  name: PreferredType
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_PreferredType
+  commentId: P:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.PreferredType
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.PreferredType
+  nameWithType: EntryFilterAttribute.PreferredType
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.PreferredType*
+  name: PreferredType
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_PreferredType_
+  commentId: Overload:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.PreferredType
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.PreferredType
+  nameWithType: EntryFilterAttribute.PreferredType
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.TableName
+  name: TableName
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_TableName
+  commentId: P:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.TableName
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.TableName
+  nameWithType: EntryFilterAttribute.TableName
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.TableName*
+  name: TableName
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_TableName_
+  commentId: Overload:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.TableName
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.TableName
+  nameWithType: EntryFilterAttribute.TableName
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Type
+  name: Type
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_Type
+  commentId: P:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Type
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Type
+  nameWithType: EntryFilterAttribute.Type
+- uid: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Type*
+  name: Type
+  href: api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html#Aarthificial_Typewriter_Attributes_EntryFilterAttribute_Type_
+  commentId: Overload:Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Type
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Attributes.EntryFilterAttribute.Type
+  nameWithType: EntryFilterAttribute.Type
+- uid: Aarthificial.Typewriter.Attributes.RecreateLookupAttribute
+  name: RecreateLookupAttribute
+  href: api/Aarthificial.Typewriter.Attributes.RecreateLookupAttribute.html
+  commentId: T:Aarthificial.Typewriter.Attributes.RecreateLookupAttribute
+  fullName: Aarthificial.Typewriter.Attributes.RecreateLookupAttribute
+  nameWithType: RecreateLookupAttribute
+- uid: Aarthificial.Typewriter.Blackboards
+  name: Aarthificial.Typewriter.Blackboards
+  href: api/Aarthificial.Typewriter.Blackboards.html
+  commentId: N:Aarthificial.Typewriter.Blackboards
+  fullName: Aarthificial.Typewriter.Blackboards
+  nameWithType: Aarthificial.Typewriter.Blackboards
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard
+  name: Blackboard
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.Blackboard
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard
+  nameWithType: Blackboard
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Add(System.Int32,System.Int32)
+  name: Add(int, int)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Add_System_Int32_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Add(System.Int32,System.Int32)
+  name.vb: Add(Integer, Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Add(int, int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.Add(Integer, Integer)
+  nameWithType: Blackboard.Add(int, int)
+  nameWithType.vb: Blackboard.Add(Integer, Integer)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Add*
+  name: Add
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Add_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.Add
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Add
+  nameWithType: Blackboard.Add
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Clear
+  name: Clear()
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Clear
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Clear
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Clear()
+  nameWithType: Blackboard.Clear()
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Clear*
+  name: Clear
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Clear_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.Clear
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Clear
+  nameWithType: Blackboard.Clear
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Clone
+  name: Clone()
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Clone
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Clone
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Clone()
+  nameWithType: Blackboard.Clone()
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Clone*
+  name: Clone
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Clone_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.Clone
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Clone
+  nameWithType: Blackboard.Clone
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: CloneWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_CloneWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: Blackboard.CloneWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith*
+  name: CloneWith
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_CloneWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith
+  nameWithType: Blackboard.CloneWith
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Get(System.Int32)
+  name: Get(int)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Get_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Get(System.Int32)
+  name.vb: Get(Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Get(int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.Get(Integer)
+  nameWithType: Blackboard.Get(int)
+  nameWithType.vb: Blackboard.Get(Integer)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Get*
+  name: Get
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Get_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.Get
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Get
+  nameWithType: Blackboard.Get
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator
+  name: GetEnumerator()
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_GetEnumerator
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator()
+  nameWithType: Blackboard.GetEnumerator()
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator*
+  name: GetEnumerator
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_GetEnumerator_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator
+  nameWithType: Blackboard.GetEnumerator
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: MergeWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_MergeWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: Blackboard.MergeWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith*
+  name: MergeWith
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_MergeWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith
+  nameWithType: Blackboard.MergeWith
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  name: Modify(BlackboardModification)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Modify_Aarthificial_Typewriter_Blackboards_BlackboardModification_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  nameWithType: Blackboard.Modify(BlackboardModification)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Modify*
+  name: Modify
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Modify_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.Modify
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Modify
+  nameWithType: Blackboard.Modify
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize
+  name: OnAfterDeserialize()
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_OnAfterDeserialize
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize()
+  nameWithType: Blackboard.OnAfterDeserialize()
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize*
+  name: OnAfterDeserialize
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_OnAfterDeserialize_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize
+  nameWithType: Blackboard.OnAfterDeserialize
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize
+  name: OnBeforeSerialize()
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_OnBeforeSerialize
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize()
+  nameWithType: Blackboard.OnBeforeSerialize()
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize*
+  name: OnBeforeSerialize
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_OnBeforeSerialize_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize
+  nameWithType: Blackboard.OnBeforeSerialize
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Pair
+  name: Blackboard.Pair
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.Pair.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.Blackboard.Pair
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Pair
+  nameWithType: Blackboard.Pair
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Pair.Key
+  name: Key
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.Pair.html#Aarthificial_Typewriter_Blackboards_Blackboard_Pair_Key
+  commentId: F:Aarthificial.Typewriter.Blackboards.Blackboard.Pair.Key
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Pair.Key
+  nameWithType: Blackboard.Pair.Key
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Pair.Value
+  name: Value
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.Pair.html#Aarthificial_Typewriter_Blackboards_Blackboard_Pair_Value
+  commentId: F:Aarthificial.Typewriter.Blackboards.Blackboard.Pair.Value
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Pair.Value
+  nameWithType: Blackboard.Pair.Value
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: ReplaceWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_ReplaceWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: Blackboard.ReplaceWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith*
+  name: ReplaceWith
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_ReplaceWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith
+  nameWithType: Blackboard.ReplaceWith
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Set_System_Int32_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Set(int, int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.Set(Integer, Integer)
+  nameWithType: Blackboard.Set(int, int)
+  nameWithType.vb: Blackboard.Set(Integer, Integer)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Set*
+  name: Set
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Set_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.Set
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Set
+  nameWithType: Blackboard.Set
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  name: Test(BlackboardCriterion)
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Test_Aarthificial_Typewriter_Blackboards_BlackboardCriterion_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  nameWithType: Blackboard.Test(BlackboardCriterion)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Test*
+  name: Test
+  href: api/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Test_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.Test
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Test
+  nameWithType: Blackboard.Test
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion
+  name: BlackboardCriterion
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.BlackboardCriterion
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion
+  nameWithType: BlackboardCriterion
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.FactReference
+  name: FactReference
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_FactReference
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.FactReference
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.FactReference
+  nameWithType: BlackboardCriterion.FactReference
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Max
+  name: Max
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_Max
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Max
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Max
+  nameWithType: BlackboardCriterion.Max
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Min
+  name: Min
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_Min
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Min
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Min
+  nameWithType: BlackboardCriterion.Min
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Operation
+  name: Operation
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_Operation
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Operation
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.Operation
+  nameWithType: BlackboardCriterion.Operation
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType
+  name: BlackboardCriterion.OperationType
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType
+  nameWithType: BlackboardCriterion.OperationType
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.ClosedInterval
+  name: ClosedInterval
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_OperationType_ClosedInterval
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.ClosedInterval
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.ClosedInterval
+  nameWithType: BlackboardCriterion.OperationType.ClosedInterval
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.Equal
+  name: Equal
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_OperationType_Equal
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.Equal
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.Equal
+  nameWithType: BlackboardCriterion.OperationType.Equal
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.EqualReference
+  name: EqualReference
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_OperationType_EqualReference
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.EqualReference
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.EqualReference
+  nameWithType: BlackboardCriterion.OperationType.EqualReference
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.GreaterEqual
+  name: GreaterEqual
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_OperationType_GreaterEqual
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.GreaterEqual
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.GreaterEqual
+  nameWithType: BlackboardCriterion.OperationType.GreaterEqual
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.LessEqual
+  name: LessEqual
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardCriterion_OperationType_LessEqual
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.LessEqual
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.LessEqual
+  nameWithType: BlackboardCriterion.OperationType.LessEqual
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification
+  name: BlackboardModification
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.BlackboardModification
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification
+  nameWithType: BlackboardModification
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification.FactReference
+  name: FactReference
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.html#Aarthificial_Typewriter_Blackboards_BlackboardModification_FactReference
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardModification.FactReference
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification.FactReference
+  nameWithType: BlackboardModification.FactReference
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification.Operation
+  name: Operation
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.html#Aarthificial_Typewriter_Blackboards_BlackboardModification_Operation
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardModification.Operation
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification.Operation
+  nameWithType: BlackboardModification.Operation
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType
+  name: BlackboardModification.OperationType
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType
+  nameWithType: BlackboardModification.OperationType
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.Add
+  name: Add
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardModification_OperationType_Add
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.Add
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.Add
+  nameWithType: BlackboardModification.OperationType.Add
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.Set
+  name: Set
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardModification_OperationType_Set
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.Set
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.Set
+  nameWithType: BlackboardModification.OperationType.Set
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.SetReference
+  name: SetReference
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.html#Aarthificial_Typewriter_Blackboards_BlackboardModification_OperationType_SetReference
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.SetReference
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.SetReference
+  nameWithType: BlackboardModification.OperationType.SetReference
+- uid: Aarthificial.Typewriter.Blackboards.BlackboardModification.Value
+  name: Value
+  href: api/Aarthificial.Typewriter.Blackboards.BlackboardModification.html#Aarthificial_Typewriter_Blackboards_BlackboardModification_Value
+  commentId: F:Aarthificial.Typewriter.Blackboards.BlackboardModification.Value
+  fullName: Aarthificial.Typewriter.Blackboards.BlackboardModification.Value
+  nameWithType: BlackboardModification.Value
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard
+  name: EmptyBlackboard
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.EmptyBlackboard
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard
+  nameWithType: EmptyBlackboard
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Add(System.Int32,System.Int32)
+  name: Add(int, int)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Add_System_Int32_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Add(System.Int32,System.Int32)
+  name.vb: Add(Integer, Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Add(int, int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Add(Integer, Integer)
+  nameWithType: EmptyBlackboard.Add(int, int)
+  nameWithType.vb: EmptyBlackboard.Add(Integer, Integer)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Add*
+  name: Add
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Add_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Add
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Add
+  nameWithType: EmptyBlackboard.Add
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clear
+  name: Clear()
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Clear
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clear
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clear()
+  nameWithType: EmptyBlackboard.Clear()
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clear*
+  name: Clear
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Clear_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clear
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clear
+  nameWithType: EmptyBlackboard.Clear
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clone
+  name: Clone()
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Clone
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clone
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clone()
+  nameWithType: EmptyBlackboard.Clone()
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clone*
+  name: Clone
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Clone_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clone
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Clone
+  nameWithType: EmptyBlackboard.Clone
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: CloneWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_CloneWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: EmptyBlackboard.CloneWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.CloneWith*
+  name: CloneWith
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_CloneWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.CloneWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.CloneWith
+  nameWithType: EmptyBlackboard.CloneWith
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Get(System.Int32)
+  name: Get(int)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Get_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Get(System.Int32)
+  name.vb: Get(Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Get(int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Get(Integer)
+  nameWithType: EmptyBlackboard.Get(int)
+  nameWithType.vb: EmptyBlackboard.Get(Integer)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Get*
+  name: Get
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Get_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Get
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Get
+  nameWithType: EmptyBlackboard.Get
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.GetEnumerator
+  name: GetEnumerator()
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_GetEnumerator
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.GetEnumerator
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.GetEnumerator()
+  nameWithType: EmptyBlackboard.GetEnumerator()
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.GetEnumerator*
+  name: GetEnumerator
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_GetEnumerator_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.GetEnumerator
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.GetEnumerator
+  nameWithType: EmptyBlackboard.GetEnumerator
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Instance
+  name: Instance
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Instance
+  commentId: F:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Instance
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Instance
+  nameWithType: EmptyBlackboard.Instance
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: MergeWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_MergeWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: EmptyBlackboard.MergeWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.MergeWith*
+  name: MergeWith
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_MergeWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.MergeWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.MergeWith
+  nameWithType: EmptyBlackboard.MergeWith
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  name: Modify(BlackboardModification)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Modify_Aarthificial_Typewriter_Blackboards_BlackboardModification_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  nameWithType: EmptyBlackboard.Modify(BlackboardModification)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Modify*
+  name: Modify
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Modify_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Modify
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Modify
+  nameWithType: EmptyBlackboard.Modify
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: ReplaceWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_ReplaceWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: EmptyBlackboard.ReplaceWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.ReplaceWith*
+  name: ReplaceWith
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_ReplaceWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.ReplaceWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.ReplaceWith
+  nameWithType: EmptyBlackboard.ReplaceWith
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Set_System_Int32_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Set(int, int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Set(Integer, Integer)
+  nameWithType: EmptyBlackboard.Set(int, int)
+  nameWithType.vb: EmptyBlackboard.Set(Integer, Integer)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Set*
+  name: Set
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Set_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Set
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Set
+  nameWithType: EmptyBlackboard.Set
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  name: Test(BlackboardCriterion)
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Test_Aarthificial_Typewriter_Blackboards_BlackboardCriterion_
+  commentId: M:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  nameWithType: EmptyBlackboard.Test(BlackboardCriterion)
+- uid: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Test*
+  name: Test
+  href: api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html#Aarthificial_Typewriter_Blackboards_EmptyBlackboard_Test_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Test
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.EmptyBlackboard.Test
+  nameWithType: EmptyBlackboard.Test
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard
+  name: IBlackboard
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html
+  commentId: T:Aarthificial.Typewriter.Blackboards.IBlackboard
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard
+  nameWithType: IBlackboard
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Add(System.Int32,System.Int32)
+  name: Add(int, int)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Add_System_Int32_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.Add(System.Int32,System.Int32)
+  name.vb: Add(Integer, Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Add(int, int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.IBlackboard.Add(Integer, Integer)
+  nameWithType: IBlackboard.Add(int, int)
+  nameWithType.vb: IBlackboard.Add(Integer, Integer)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Add*
+  name: Add
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Add_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.Add
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Add
+  nameWithType: IBlackboard.Add
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Clear
+  name: Clear()
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Clear
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.Clear
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Clear()
+  nameWithType: IBlackboard.Clear()
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Clear*
+  name: Clear
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Clear_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.Clear
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Clear
+  nameWithType: IBlackboard.Clear
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Clone
+  name: Clone()
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Clone
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.Clone
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Clone()
+  nameWithType: IBlackboard.Clone()
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Clone*
+  name: Clone
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Clone_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.Clone
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Clone
+  nameWithType: IBlackboard.Clone
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: CloneWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_CloneWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: IBlackboard.CloneWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.CloneWith*
+  name: CloneWith
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_CloneWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.CloneWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.CloneWith
+  nameWithType: IBlackboard.CloneWith
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Get(System.Int32)
+  name: Get(int)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Get_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.Get(System.Int32)
+  name.vb: Get(Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Get(int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.IBlackboard.Get(Integer)
+  nameWithType: IBlackboard.Get(int)
+  nameWithType.vb: IBlackboard.Get(Integer)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Get*
+  name: Get
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Get_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.Get
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Get
+  nameWithType: IBlackboard.Get
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: MergeWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_MergeWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: IBlackboard.MergeWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.MergeWith*
+  name: MergeWith
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_MergeWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.MergeWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.MergeWith
+  nameWithType: IBlackboard.MergeWith
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  name: Modify(BlackboardModification)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Modify_Aarthificial_Typewriter_Blackboards_BlackboardModification_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  nameWithType: IBlackboard.Modify(BlackboardModification)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Modify*
+  name: Modify
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Modify_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.Modify
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Modify
+  nameWithType: IBlackboard.Modify
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  name: ReplaceWith(IBlackboard)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_ReplaceWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: IBlackboard.ReplaceWith(IBlackboard)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.ReplaceWith*
+  name: ReplaceWith
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_ReplaceWith_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.ReplaceWith
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.ReplaceWith
+  nameWithType: IBlackboard.ReplaceWith
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Set_System_Int32_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Set(int, int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.IBlackboard.Set(Integer, Integer)
+  nameWithType: IBlackboard.Set(int, int)
+  nameWithType.vb: IBlackboard.Set(Integer, Integer)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Set*
+  name: Set
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Set_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.Set
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Set
+  nameWithType: IBlackboard.Set
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  name: Test(BlackboardCriterion)
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Test_Aarthificial_Typewriter_Blackboards_BlackboardCriterion_
+  commentId: M:Aarthificial.Typewriter.Blackboards.IBlackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  nameWithType: IBlackboard.Test(BlackboardCriterion)
+- uid: Aarthificial.Typewriter.Blackboards.IBlackboard.Test*
+  name: Test
+  href: api/Aarthificial.Typewriter.Blackboards.IBlackboard.html#Aarthificial_Typewriter_Blackboards_IBlackboard_Test_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.IBlackboard.Test
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.IBlackboard.Test
+  nameWithType: IBlackboard.Test
+- uid: Aarthificial.Typewriter.Common
+  name: Aarthificial.Typewriter.Common
+  href: api/Aarthificial.Typewriter.Common.html
+  commentId: N:Aarthificial.Typewriter.Common
+  fullName: Aarthificial.Typewriter.Common
+  nameWithType: Aarthificial.Typewriter.Common
+- uid: Aarthificial.Typewriter.Common.DatabaseTable
+  name: DatabaseTable
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html
+  commentId: T:Aarthificial.Typewriter.Common.DatabaseTable
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable
+  nameWithType: DatabaseTable
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.AddEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  name: AddEntry(BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_AddEntry_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.DatabaseTable.AddEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.AddEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: DatabaseTable.AddEntry(BaseEntry)
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.AddEntry*
+  name: AddEntry
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_AddEntry_
+  commentId: Overload:Aarthificial.Typewriter.Common.DatabaseTable.AddEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.AddEntry
+  nameWithType: DatabaseTable.AddEntry
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.Events
+  name: Events
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_Events
+  commentId: F:Aarthificial.Typewriter.Common.DatabaseTable.Events
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.Events
+  nameWithType: DatabaseTable.Events
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.Facts
+  name: Facts
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_Facts
+  commentId: F:Aarthificial.Typewriter.Common.DatabaseTable.Facts
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.Facts
+  nameWithType: DatabaseTable.Facts
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.RemoveEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  name: RemoveEntry(BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_RemoveEntry_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.DatabaseTable.RemoveEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.RemoveEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: DatabaseTable.RemoveEntry(BaseEntry)
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.RemoveEntry*
+  name: RemoveEntry
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_RemoveEntry_
+  commentId: Overload:Aarthificial.Typewriter.Common.DatabaseTable.RemoveEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.RemoveEntry
+  nameWithType: DatabaseTable.RemoveEntry
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.Rules
+  name: Rules
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_Rules
+  commentId: F:Aarthificial.Typewriter.Common.DatabaseTable.Rules
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.Rules
+  nameWithType: DatabaseTable.Rules
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.Setup(Aarthificial.Typewriter.Common.TypewriterDatabase)
+  name: Setup(TypewriterDatabase)
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_Setup_Aarthificial_Typewriter_Common_TypewriterDatabase_
+  commentId: M:Aarthificial.Typewriter.Common.DatabaseTable.Setup(Aarthificial.Typewriter.Common.TypewriterDatabase)
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.Setup(Aarthificial.Typewriter.Common.TypewriterDatabase)
+  nameWithType: DatabaseTable.Setup(TypewriterDatabase)
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.Setup*
+  name: Setup
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_Setup_
+  commentId: Overload:Aarthificial.Typewriter.Common.DatabaseTable.Setup
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.Setup
+  nameWithType: DatabaseTable.Setup
+- uid: Aarthificial.Typewriter.Common.DatabaseTable.TableName
+  name: TableName
+  href: api/Aarthificial.Typewriter.Common.DatabaseTable.html#Aarthificial_Typewriter_Common_DatabaseTable_TableName
+  commentId: F:Aarthificial.Typewriter.Common.DatabaseTable.TableName
+  fullName: Aarthificial.Typewriter.Common.DatabaseTable.TableName
+  nameWithType: DatabaseTable.TableName
+- uid: Aarthificial.Typewriter.Common.ITypewriterContext
+  name: ITypewriterContext
+  href: api/Aarthificial.Typewriter.Common.ITypewriterContext.html
+  commentId: T:Aarthificial.Typewriter.Common.ITypewriterContext
+  fullName: Aarthificial.Typewriter.Common.ITypewriterContext
+  nameWithType: ITypewriterContext
+- uid: Aarthificial.Typewriter.Common.ITypewriterContext.OnBegin
+  name: OnBegin()
+  href: api/Aarthificial.Typewriter.Common.ITypewriterContext.html#Aarthificial_Typewriter_Common_ITypewriterContext_OnBegin
+  commentId: M:Aarthificial.Typewriter.Common.ITypewriterContext.OnBegin
+  fullName: Aarthificial.Typewriter.Common.ITypewriterContext.OnBegin()
+  nameWithType: ITypewriterContext.OnBegin()
+- uid: Aarthificial.Typewriter.Common.ITypewriterContext.OnBegin*
+  name: OnBegin
+  href: api/Aarthificial.Typewriter.Common.ITypewriterContext.html#Aarthificial_Typewriter_Common_ITypewriterContext_OnBegin_
+  commentId: Overload:Aarthificial.Typewriter.Common.ITypewriterContext.OnBegin
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.ITypewriterContext.OnBegin
+  nameWithType: ITypewriterContext.OnBegin
+- uid: Aarthificial.Typewriter.Common.ITypewriterContext.OnFinish
+  name: OnFinish()
+  href: api/Aarthificial.Typewriter.Common.ITypewriterContext.html#Aarthificial_Typewriter_Common_ITypewriterContext_OnFinish
+  commentId: M:Aarthificial.Typewriter.Common.ITypewriterContext.OnFinish
+  fullName: Aarthificial.Typewriter.Common.ITypewriterContext.OnFinish()
+  nameWithType: ITypewriterContext.OnFinish()
+- uid: Aarthificial.Typewriter.Common.ITypewriterContext.OnFinish*
+  name: OnFinish
+  href: api/Aarthificial.Typewriter.Common.ITypewriterContext.html#Aarthificial_Typewriter_Common_ITypewriterContext_OnFinish_
+  commentId: Overload:Aarthificial.Typewriter.Common.ITypewriterContext.OnFinish
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.ITypewriterContext.OnFinish
+  nameWithType: ITypewriterContext.OnFinish
+- uid: Aarthificial.Typewriter.Common.ITypewriterContext.TryGetBlackboard(System.Int32,Aarthificial.Typewriter.Blackboards.IBlackboard@)
+  name: TryGetBlackboard(int, out IBlackboard)
+  href: api/Aarthificial.Typewriter.Common.ITypewriterContext.html#Aarthificial_Typewriter_Common_ITypewriterContext_TryGetBlackboard_System_Int32_Aarthificial_Typewriter_Blackboards_IBlackboard__
+  commentId: M:Aarthificial.Typewriter.Common.ITypewriterContext.TryGetBlackboard(System.Int32,Aarthificial.Typewriter.Blackboards.IBlackboard@)
+  name.vb: TryGetBlackboard(Integer, IBlackboard)
+  fullName: Aarthificial.Typewriter.Common.ITypewriterContext.TryGetBlackboard(int, out Aarthificial.Typewriter.Blackboards.IBlackboard)
+  fullName.vb: Aarthificial.Typewriter.Common.ITypewriterContext.TryGetBlackboard(Integer, Aarthificial.Typewriter.Blackboards.IBlackboard)
+  nameWithType: ITypewriterContext.TryGetBlackboard(int, out IBlackboard)
+  nameWithType.vb: ITypewriterContext.TryGetBlackboard(Integer, IBlackboard)
+- uid: Aarthificial.Typewriter.Common.ITypewriterContext.TryGetBlackboard*
+  name: TryGetBlackboard
+  href: api/Aarthificial.Typewriter.Common.ITypewriterContext.html#Aarthificial_Typewriter_Common_ITypewriterContext_TryGetBlackboard_
+  commentId: Overload:Aarthificial.Typewriter.Common.ITypewriterContext.TryGetBlackboard
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.ITypewriterContext.TryGetBlackboard
+  nameWithType: ITypewriterContext.TryGetBlackboard
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions
+  name: TypewriterContextExtensions
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html
+  commentId: T:Aarthificial.Typewriter.Common.TypewriterContextExtensions
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions
+  nameWithType: TypewriterContextExtensions
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry,System.Int32)
+  name: Add(ITypewriterContext, BaseEntry, int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Add_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_BaseEntry_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry,System.Int32)
+  name.vb: Add(ITypewriterContext, BaseEntry, Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry, int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry, Integer)
+  nameWithType: TypewriterContextExtensions.Add(ITypewriterContext, BaseEntry, int)
+  nameWithType.vb: TypewriterContextExtensions.Add(ITypewriterContext, BaseEntry, Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,System.Int32)
+  name: Add(ITypewriterContext, EntryReference, int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Add_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,System.Int32)
+  name.vb: Add(ITypewriterContext, EntryReference, Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, Integer)
+  nameWithType: TypewriterContextExtensions.Add(ITypewriterContext, EntryReference, int)
+  nameWithType.vb: TypewriterContextExtensions.Add(ITypewriterContext, EntryReference, Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add*
+  name: Add
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Add_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Add
+  nameWithType: TypewriterContextExtensions.Add
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  name: Apply(ITypewriterContext, BlackboardModification)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Apply_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Blackboards_BlackboardModification_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Blackboards.BlackboardModification)
+  nameWithType: TypewriterContextExtensions.Apply(ITypewriterContext, BlackboardModification)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Tools.TypewriterModification)
+  name: Apply(ITypewriterContext, TypewriterModification)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Apply_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Tools_TypewriterModification_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Tools.TypewriterModification)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Tools.TypewriterModification)
+  nameWithType: TypewriterContextExtensions.Apply(ITypewriterContext, TypewriterModification)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext,System.Collections.Generic.IList{Aarthificial.Typewriter.Blackboards.BlackboardModification})
+  name: Apply(ITypewriterContext, IList<BlackboardModification>)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Apply_Aarthificial_Typewriter_Common_ITypewriterContext_System_Collections_Generic_IList_Aarthificial_Typewriter_Blackboards_BlackboardModification__
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext,System.Collections.Generic.IList{Aarthificial.Typewriter.Blackboards.BlackboardModification})
+  name.vb: Apply(ITypewriterContext, IList(Of BlackboardModification))
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext, System.Collections.Generic.IList<Aarthificial.Typewriter.Blackboards.BlackboardModification>)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply(Aarthificial.Typewriter.Common.ITypewriterContext, System.Collections.Generic.IList(Of Aarthificial.Typewriter.Blackboards.BlackboardModification))
+  nameWithType: TypewriterContextExtensions.Apply(ITypewriterContext, IList<BlackboardModification>)
+  nameWithType.vb: TypewriterContextExtensions.Apply(ITypewriterContext, IList(Of BlackboardModification))
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply*
+  name: Apply
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Apply_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Apply
+  nameWithType: TypewriterContextExtensions.Apply
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.CountMatchingRules(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  name: CountMatchingRules(ITypewriterContext, EntryReference)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_CountMatchingRules_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.CountMatchingRules(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.CountMatchingRules(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: TypewriterContextExtensions.CountMatchingRules(ITypewriterContext, EntryReference)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.CountMatchingRules*
+  name: CountMatchingRules
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_CountMatchingRules_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.CountMatchingRules
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.CountMatchingRules
+  nameWithType: TypewriterContextExtensions.CountMatchingRules
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRule(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.Entries.BaseEntry@)
+  name: FindMatchingRule(ITypewriterContext, EntryReference, out BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_FindMatchingRule_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_Aarthificial_Typewriter_Entries_BaseEntry__
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRule(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.Entries.BaseEntry@)
+  name.vb: FindMatchingRule(ITypewriterContext, EntryReference, BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRule(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, out Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRule(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterContextExtensions.FindMatchingRule(ITypewriterContext, EntryReference, out BaseEntry)
+  nameWithType.vb: TypewriterContextExtensions.FindMatchingRule(ITypewriterContext, EntryReference, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRule*
+  name: FindMatchingRule
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_FindMatchingRule_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRule
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRule
+  nameWithType: TypewriterContextExtensions.FindMatchingRule
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.Entries.BaseEntry[])
+  name: FindMatchingRules(ITypewriterContext, EntryReference, BaseEntry[])
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_FindMatchingRules_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_Aarthificial_Typewriter_Entries_BaseEntry___
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.Entries.BaseEntry[])
+  name.vb: FindMatchingRules(ITypewriterContext, EntryReference, BaseEntry())
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, Aarthificial.Typewriter.Entries.BaseEntry[])
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, Aarthificial.Typewriter.Entries.BaseEntry())
+  nameWithType: TypewriterContextExtensions.FindMatchingRules(ITypewriterContext, EntryReference, BaseEntry[])
+  nameWithType.vb: TypewriterContextExtensions.FindMatchingRules(ITypewriterContext, EntryReference, BaseEntry())
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules*
+  name: FindMatchingRules
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_FindMatchingRules_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules
+  nameWithType: TypewriterContextExtensions.FindMatchingRules
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules``1(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,``0[])
+  name: FindMatchingRules<T>(ITypewriterContext, EntryReference, T[])
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_FindMatchingRules__1_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference___0___
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules``1(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,``0[])
+  name.vb: FindMatchingRules(Of T)(ITypewriterContext, EntryReference, T())
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules<T>(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, T[])
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.FindMatchingRules(Of T)(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, T())
+  nameWithType: TypewriterContextExtensions.FindMatchingRules<T>(ITypewriterContext, EntryReference, T[])
+  nameWithType.vb: TypewriterContextExtensions.FindMatchingRules(Of T)(ITypewriterContext, EntryReference, T())
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  name: Get(ITypewriterContext, BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Get_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterContextExtensions.Get(ITypewriterContext, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  name: Get(ITypewriterContext, EntryReference)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Get_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: TypewriterContextExtensions.Get(ITypewriterContext, EntryReference)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get*
+  name: Get
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Get_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Get
+  nameWithType: TypewriterContextExtensions.Get
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.HasMatchingRule(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  name: HasMatchingRule(ITypewriterContext, EntryReference)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_HasMatchingRule_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.HasMatchingRule(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.HasMatchingRule(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: TypewriterContextExtensions.HasMatchingRule(ITypewriterContext, EntryReference)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.HasMatchingRule*
+  name: HasMatchingRule
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_HasMatchingRule_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.HasMatchingRule
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.HasMatchingRule
+  nameWithType: TypewriterContextExtensions.HasMatchingRule
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  name: Process(ITypewriterContext, BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Process_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterContextExtensions.Process(ITypewriterContext, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  name: Process(ITypewriterContext, EntryReference)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Process_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: TypewriterContextExtensions.Process(ITypewriterContext, EntryReference)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process*
+  name: Process
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Process_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Process
+  nameWithType: TypewriterContextExtensions.Process
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry,System.Int32)
+  name: Set(ITypewriterContext, BaseEntry, int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Set_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_BaseEntry_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry,System.Int32)
+  name.vb: Set(ITypewriterContext, BaseEntry, Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry, int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry, Integer)
+  nameWithType: TypewriterContextExtensions.Set(ITypewriterContext, BaseEntry, int)
+  nameWithType.vb: TypewriterContextExtensions.Set(ITypewriterContext, BaseEntry, Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,System.Int32)
+  name: Set(ITypewriterContext, EntryReference, int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Set_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference,System.Int32)
+  name.vb: Set(ITypewriterContext, EntryReference, Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference, Integer)
+  nameWithType: TypewriterContextExtensions.Set(ITypewriterContext, EntryReference, int)
+  nameWithType.vb: TypewriterContextExtensions.Set(ITypewriterContext, EntryReference, Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set*
+  name: Set
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Set_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Set
+  nameWithType: TypewriterContextExtensions.Set
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  name: Test(ITypewriterContext, BlackboardCriterion)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Test_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Blackboards_BlackboardCriterion_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Blackboards.BlackboardCriterion)
+  nameWithType: TypewriterContextExtensions.Test(ITypewriterContext, BlackboardCriterion)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Tools.TypewriterCriteria)
+  name: Test(ITypewriterContext, TypewriterCriteria)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Test_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Tools_TypewriterCriteria_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Tools.TypewriterCriteria)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Tools.TypewriterCriteria)
+  nameWithType: TypewriterContextExtensions.Test(ITypewriterContext, TypewriterCriteria)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test*
+  name: Test
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_Test_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.Test
+  nameWithType: TypewriterContextExtensions.Test
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  name: TryInvoke(ITypewriterContext, BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_TryInvoke_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterContextExtensions.TryInvoke(ITypewriterContext, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  name: TryInvoke(ITypewriterContext, EntryReference)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_TryInvoke_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: TypewriterContextExtensions.TryInvoke(ITypewriterContext, EntryReference)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke*
+  name: TryInvoke
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_TryInvoke_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.TryInvoke
+  nameWithType: TypewriterContextExtensions.TryInvoke
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  name: WouldInvoke(ITypewriterContext, BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_WouldInvoke_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterContextExtensions.WouldInvoke(ITypewriterContext, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  name: WouldInvoke(ITypewriterContext, EntryReference)
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_WouldInvoke_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.References.EntryReference)
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: TypewriterContextExtensions.WouldInvoke(ITypewriterContext, EntryReference)
+- uid: Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke*
+  name: WouldInvoke
+  href: api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html#Aarthificial_Typewriter_Common_TypewriterContextExtensions_WouldInvoke_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterContextExtensions.WouldInvoke
+  nameWithType: TypewriterContextExtensions.WouldInvoke
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase
+  name: TypewriterDatabase
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html
+  commentId: T:Aarthificial.Typewriter.Common.TypewriterDatabase
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase
+  nameWithType: TypewriterDatabase
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase._changeCounter
+  name: _changeCounter
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase__changeCounter
+  commentId: F:Aarthificial.Typewriter.Common.TypewriterDatabase._changeCounter
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase._changeCounter
+  nameWithType: TypewriterDatabase._changeCounter
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.AddEntry(Aarthificial.Typewriter.Common.DatabaseTable,Aarthificial.Typewriter.Entries.BaseEntry)
+  name: AddEntry(DatabaseTable, BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_AddEntry_Aarthificial_Typewriter_Common_DatabaseTable_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.AddEntry(Aarthificial.Typewriter.Common.DatabaseTable,Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.AddEntry(Aarthificial.Typewriter.Common.DatabaseTable, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterDatabase.AddEntry(DatabaseTable, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.AddEntry*
+  name: AddEntry
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_AddEntry_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.AddEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.AddEntry
+  nameWithType: TypewriterDatabase.AddEntry
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener(Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  name: AddListener(EntryAction)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_AddListener_Aarthificial_Typewriter_Common_TypewriterDatabase_EntryAction_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener(Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener(Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  nameWithType: TypewriterDatabase.AddListener(TypewriterDatabase.EntryAction)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener(System.Int32,Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  name: AddListener(int, EntryAction)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_AddListener_System_Int32_Aarthificial_Typewriter_Common_TypewriterDatabase_EntryAction_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener(System.Int32,Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  name.vb: AddListener(Integer, EntryAction)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener(int, Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener(Integer, Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  nameWithType: TypewriterDatabase.AddListener(int, TypewriterDatabase.EntryAction)
+  nameWithType.vb: TypewriterDatabase.AddListener(Integer, TypewriterDatabase.EntryAction)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener*
+  name: AddListener
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_AddListener_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.AddListener
+  nameWithType: TypewriterDatabase.AddListener
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.AddTable(Aarthificial.Typewriter.Common.DatabaseTable,System.Int32)
+  name: AddTable(DatabaseTable, int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_AddTable_Aarthificial_Typewriter_Common_DatabaseTable_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.AddTable(Aarthificial.Typewriter.Common.DatabaseTable,System.Int32)
+  name.vb: AddTable(DatabaseTable, Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.AddTable(Aarthificial.Typewriter.Common.DatabaseTable, int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.AddTable(Aarthificial.Typewriter.Common.DatabaseTable, Integer)
+  nameWithType: TypewriterDatabase.AddTable(DatabaseTable, int)
+  nameWithType.vb: TypewriterDatabase.AddTable(DatabaseTable, Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.AddTable*
+  name: AddTable
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_AddTable_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.AddTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.AddTable
+  nameWithType: TypewriterDatabase.AddTable
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.Contains(System.Int32)
+  name: Contains(int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_Contains_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.Contains(System.Int32)
+  name.vb: Contains(Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.Contains(int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.Contains(Integer)
+  nameWithType: TypewriterDatabase.Contains(int)
+  nameWithType.vb: TypewriterDatabase.Contains(Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.Contains*
+  name: Contains
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_Contains_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.Contains
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.Contains
+  nameWithType: TypewriterDatabase.Contains
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateEntry(Aarthificial.Typewriter.Common.DatabaseTable,System.Type)
+  name: CreateEntry(DatabaseTable, Type)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_CreateEntry_Aarthificial_Typewriter_Common_DatabaseTable_System_Type_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.CreateEntry(Aarthificial.Typewriter.Common.DatabaseTable,System.Type)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateEntry(Aarthificial.Typewriter.Common.DatabaseTable, System.Type)
+  nameWithType: TypewriterDatabase.CreateEntry(DatabaseTable, Type)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateEntry*
+  name: CreateEntry
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_CreateEntry_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.CreateEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateEntry
+  nameWithType: TypewriterDatabase.CreateEntry
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookup
+  name: CreateLookup()
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_CreateLookup
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookup
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookup()
+  nameWithType: TypewriterDatabase.CreateLookup()
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookup*
+  name: CreateLookup
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_CreateLookup_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookup
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookup
+  nameWithType: TypewriterDatabase.CreateLookup
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookupIfNecessary
+  name: CreateLookupIfNecessary()
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_CreateLookupIfNecessary
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookupIfNecessary
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookupIfNecessary()
+  nameWithType: TypewriterDatabase.CreateLookupIfNecessary()
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookupIfNecessary*
+  name: CreateLookupIfNecessary
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_CreateLookupIfNecessary_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookupIfNecessary
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.CreateLookupIfNecessary
+  nameWithType: TypewriterDatabase.CreateLookupIfNecessary
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction
+  name: TypewriterDatabase.EntryAction
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction.html
+  commentId: T:Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction
+  nameWithType: TypewriterDatabase.EntryAction
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.GetRules(System.Int32)
+  name: GetRules(int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_GetRules_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.GetRules(System.Int32)
+  name.vb: GetRules(Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.GetRules(int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.GetRules(Integer)
+  nameWithType: TypewriterDatabase.GetRules(int)
+  nameWithType.vb: TypewriterDatabase.GetRules(Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.GetRules*
+  name: GetRules
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_GetRules_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.GetRules
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.GetRules
+  nameWithType: TypewriterDatabase.GetRules
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.HasChangedSince(System.Int32@)
+  name: HasChangedSince(ref int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_HasChangedSince_System_Int32__
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.HasChangedSince(System.Int32@)
+  name.vb: HasChangedSince(Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.HasChangedSince(ref int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.HasChangedSince(Integer)
+  nameWithType: TypewriterDatabase.HasChangedSince(ref int)
+  nameWithType.vb: TypewriterDatabase.HasChangedSince(Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.HasChangedSince*
+  name: HasChangedSince
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_HasChangedSince_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.HasChangedSince
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.HasChangedSince
+  nameWithType: TypewriterDatabase.HasChangedSince
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.Instance
+  name: Instance
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_Instance
+  commentId: P:Aarthificial.Typewriter.Common.TypewriterDatabase.Instance
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.Instance
+  nameWithType: TypewriterDatabase.Instance
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.Instance*
+  name: Instance
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_Instance_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.Instance
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.Instance
+  nameWithType: TypewriterDatabase.Instance
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.MarkChange
+  name: MarkChange()
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_MarkChange
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.MarkChange
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.MarkChange()
+  nameWithType: TypewriterDatabase.MarkChange()
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.MarkChange*
+  name: MarkChange
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_MarkChange_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.MarkChange
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.MarkChange
+  nameWithType: TypewriterDatabase.MarkChange
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.MoveToTable(System.Int32,Aarthificial.Typewriter.Common.DatabaseTable)
+  name: MoveToTable(int, DatabaseTable)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_MoveToTable_System_Int32_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.MoveToTable(System.Int32,Aarthificial.Typewriter.Common.DatabaseTable)
+  name.vb: MoveToTable(Integer, DatabaseTable)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.MoveToTable(int, Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.MoveToTable(Integer, Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: TypewriterDatabase.MoveToTable(int, DatabaseTable)
+  nameWithType.vb: TypewriterDatabase.MoveToTable(Integer, DatabaseTable)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.MoveToTable*
+  name: MoveToTable
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_MoveToTable_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.MoveToTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.MoveToTable
+  nameWithType: TypewriterDatabase.MoveToTable
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.OnAfterDeserialize
+  name: OnAfterDeserialize()
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_OnAfterDeserialize
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.OnAfterDeserialize
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.OnAfterDeserialize()
+  nameWithType: TypewriterDatabase.OnAfterDeserialize()
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.OnAfterDeserialize*
+  name: OnAfterDeserialize
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_OnAfterDeserialize_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.OnAfterDeserialize
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.OnAfterDeserialize
+  nameWithType: TypewriterDatabase.OnAfterDeserialize
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.OnBeforeSerialize
+  name: OnBeforeSerialize()
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_OnBeforeSerialize
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.OnBeforeSerialize
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.OnBeforeSerialize()
+  nameWithType: TypewriterDatabase.OnBeforeSerialize()
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.OnBeforeSerialize*
+  name: OnBeforeSerialize
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_OnBeforeSerialize_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.OnBeforeSerialize
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.OnBeforeSerialize
+  nameWithType: TypewriterDatabase.OnBeforeSerialize
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.OnEntryEvent(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  name: OnEntryEvent(ITypewriterContext, BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_OnEntryEvent_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.OnEntryEvent(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.OnEntryEvent(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterDatabase.OnEntryEvent(ITypewriterContext, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.OnEntryEvent*
+  name: OnEntryEvent
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_OnEntryEvent_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.OnEntryEvent
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.OnEntryEvent
+  nameWithType: TypewriterDatabase.OnEntryEvent
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  name: RemoveEntry(BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveEntry_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterDatabase.RemoveEntry(BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry(System.Int32)
+  name: RemoveEntry(int)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveEntry_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry(System.Int32)
+  name.vb: RemoveEntry(Integer)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry(int)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry(Integer)
+  nameWithType: TypewriterDatabase.RemoveEntry(int)
+  nameWithType.vb: TypewriterDatabase.RemoveEntry(Integer)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry*
+  name: RemoveEntry
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveEntry_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveEntry
+  nameWithType: TypewriterDatabase.RemoveEntry
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener(Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  name: RemoveListener(EntryAction)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveListener_Aarthificial_Typewriter_Common_TypewriterDatabase_EntryAction_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener(Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener(Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  nameWithType: TypewriterDatabase.RemoveListener(TypewriterDatabase.EntryAction)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener(System.Int32,Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  name: RemoveListener(int, EntryAction)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveListener_System_Int32_Aarthificial_Typewriter_Common_TypewriterDatabase_EntryAction_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener(System.Int32,Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  name.vb: RemoveListener(Integer, EntryAction)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener(int, Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener(Integer, Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction)
+  nameWithType: TypewriterDatabase.RemoveListener(int, TypewriterDatabase.EntryAction)
+  nameWithType.vb: TypewriterDatabase.RemoveListener(Integer, TypewriterDatabase.EntryAction)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener*
+  name: RemoveListener
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveListener_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveListener
+  nameWithType: TypewriterDatabase.RemoveListener
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: RemoveTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: TypewriterDatabase.RemoveTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveTable*
+  name: RemoveTable
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_RemoveTable_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.RemoveTable
+  nameWithType: TypewriterDatabase.RemoveTable
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.Tables
+  name: Tables
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_Tables
+  commentId: F:Aarthificial.Typewriter.Common.TypewriterDatabase.Tables
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.Tables
+  nameWithType: TypewriterDatabase.Tables
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry(System.Int32,Aarthificial.Typewriter.Entries.BaseEntry@)
+  name: TryGetEntry(int, out BaseEntry)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_TryGetEntry_System_Int32_Aarthificial_Typewriter_Entries_BaseEntry__
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry(System.Int32,Aarthificial.Typewriter.Entries.BaseEntry@)
+  name.vb: TryGetEntry(Integer, BaseEntry)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry(int, out Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry(Integer, Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: TypewriterDatabase.TryGetEntry(int, out BaseEntry)
+  nameWithType.vb: TypewriterDatabase.TryGetEntry(Integer, BaseEntry)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry*
+  name: TryGetEntry
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_TryGetEntry_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry
+  nameWithType: TypewriterDatabase.TryGetEntry
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry``1(System.Int32,``0@)
+  name: TryGetEntry<T>(int, out T)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_TryGetEntry__1_System_Int32___0__
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry``1(System.Int32,``0@)
+  name.vb: TryGetEntry(Of T)(Integer, T)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry<T>(int, out T)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetEntry(Of T)(Integer, T)
+  nameWithType: TypewriterDatabase.TryGetEntry<T>(int, out T)
+  nameWithType.vb: TypewriterDatabase.TryGetEntry(Of T)(Integer, T)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable(System.Int32,Aarthificial.Typewriter.Common.DatabaseTable@)
+  name: TryGetTable(int, out DatabaseTable)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_TryGetTable_System_Int32_Aarthificial_Typewriter_Common_DatabaseTable__
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable(System.Int32,Aarthificial.Typewriter.Common.DatabaseTable@)
+  name.vb: TryGetTable(Integer, DatabaseTable)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable(int, out Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable(Integer, Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: TypewriterDatabase.TryGetTable(int, out DatabaseTable)
+  nameWithType.vb: TypewriterDatabase.TryGetTable(Integer, DatabaseTable)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable*
+  name: TryGetTable
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_TryGetTable_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable
+  nameWithType: TypewriterDatabase.TryGetTable
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable``1(System.Int32,``0@)
+  name: TryGetTable<T>(int, out T)
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_TryGetTable__1_System_Int32___0__
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable``1(System.Int32,``0@)
+  name.vb: TryGetTable(Of T)(Integer, T)
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable<T>(int, out T)
+  fullName.vb: Aarthificial.Typewriter.Common.TypewriterDatabase.TryGetTable(Of T)(Integer, T)
+  nameWithType: TypewriterDatabase.TryGetTable<T>(int, out T)
+  nameWithType.vb: TypewriterDatabase.TryGetTable(Of T)(Integer, T)
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.UpdateLookupIfExists
+  name: UpdateLookupIfExists()
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_UpdateLookupIfExists
+  commentId: M:Aarthificial.Typewriter.Common.TypewriterDatabase.UpdateLookupIfExists
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.UpdateLookupIfExists()
+  nameWithType: TypewriterDatabase.UpdateLookupIfExists()
+- uid: Aarthificial.Typewriter.Common.TypewriterDatabase.UpdateLookupIfExists*
+  name: UpdateLookupIfExists
+  href: api/Aarthificial.Typewriter.Common.TypewriterDatabase.html#Aarthificial_Typewriter_Common_TypewriterDatabase_UpdateLookupIfExists_
+  commentId: Overload:Aarthificial.Typewriter.Common.TypewriterDatabase.UpdateLookupIfExists
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.TypewriterDatabase.UpdateLookupIfExists
+  nameWithType: TypewriterDatabase.UpdateLookupIfExists
+- uid: Aarthificial.Typewriter.Common.UidGenerator
+  name: UidGenerator
+  href: api/Aarthificial.Typewriter.Common.UidGenerator.html
+  commentId: T:Aarthificial.Typewriter.Common.UidGenerator
+  fullName: Aarthificial.Typewriter.Common.UidGenerator
+  nameWithType: UidGenerator
+- uid: Aarthificial.Typewriter.Common.UidGenerator.GetNextKey
+  name: GetNextKey()
+  href: api/Aarthificial.Typewriter.Common.UidGenerator.html#Aarthificial_Typewriter_Common_UidGenerator_GetNextKey
+  commentId: M:Aarthificial.Typewriter.Common.UidGenerator.GetNextKey
+  fullName: Aarthificial.Typewriter.Common.UidGenerator.GetNextKey()
+  nameWithType: UidGenerator.GetNextKey()
+- uid: Aarthificial.Typewriter.Common.UidGenerator.GetNextKey*
+  name: GetNextKey
+  href: api/Aarthificial.Typewriter.Common.UidGenerator.html#Aarthificial_Typewriter_Common_UidGenerator_GetNextKey_
+  commentId: Overload:Aarthificial.Typewriter.Common.UidGenerator.GetNextKey
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Common.UidGenerator.GetNextKey
+  nameWithType: UidGenerator.GetNextKey
+- uid: Aarthificial.Typewriter.Common.UidGenerator.MachineIdPrefKey
+  name: MachineIdPrefKey
+  href: api/Aarthificial.Typewriter.Common.UidGenerator.html#Aarthificial_Typewriter_Common_UidGenerator_MachineIdPrefKey
+  commentId: F:Aarthificial.Typewriter.Common.UidGenerator.MachineIdPrefKey
+  fullName: Aarthificial.Typewriter.Common.UidGenerator.MachineIdPrefKey
+  nameWithType: UidGenerator.MachineIdPrefKey
+- uid: Aarthificial.Typewriter.Common.UidGenerator.SequencePrefKey
+  name: SequencePrefKey
+  href: api/Aarthificial.Typewriter.Common.UidGenerator.html#Aarthificial_Typewriter_Common_UidGenerator_SequencePrefKey
+  commentId: F:Aarthificial.Typewriter.Common.UidGenerator.SequencePrefKey
+  fullName: Aarthificial.Typewriter.Common.UidGenerator.SequencePrefKey
+  nameWithType: UidGenerator.SequencePrefKey
+- uid: Aarthificial.Typewriter.Entries
+  name: Aarthificial.Typewriter.Entries
+  href: api/Aarthificial.Typewriter.Entries.html
+  commentId: N:Aarthificial.Typewriter.Entries
+  fullName: Aarthificial.Typewriter.Entries
+  nameWithType: Aarthificial.Typewriter.Entries
+- uid: Aarthificial.Typewriter.Entries.BaseEntry
+  name: BaseEntry
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html
+  commentId: T:Aarthificial.Typewriter.Entries.BaseEntry
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry
+  nameWithType: BaseEntry
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: AddToTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_AddToTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.BaseEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: BaseEntry.AddToTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.AddToTable*
+  name: AddToTable
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_AddToTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.AddToTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.AddToTable
+  nameWithType: BaseEntry.AddToTable
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Apply(Aarthificial.Typewriter.Common.ITypewriterContext)
+  name: Apply(ITypewriterContext)
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Apply_Aarthificial_Typewriter_Common_ITypewriterContext_
+  commentId: M:Aarthificial.Typewriter.Entries.BaseEntry.Apply(Aarthificial.Typewriter.Common.ITypewriterContext)
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Apply(Aarthificial.Typewriter.Common.ITypewriterContext)
+  nameWithType: BaseEntry.Apply(ITypewriterContext)
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Apply*
+  name: Apply
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Apply_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.Apply
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Apply
+  nameWithType: BaseEntry.Apply
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.CompareTo(Aarthificial.Typewriter.Entries.BaseEntry)
+  name: CompareTo(BaseEntry)
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_CompareTo_Aarthificial_Typewriter_Entries_BaseEntry_
+  commentId: M:Aarthificial.Typewriter.Entries.BaseEntry.CompareTo(Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.CompareTo(Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: BaseEntry.CompareTo(BaseEntry)
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.CompareTo*
+  name: CompareTo
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_CompareTo_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.CompareTo
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.CompareTo
+  nameWithType: BaseEntry.CompareTo
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Criteria
+  name: Criteria
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Criteria
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Criteria
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Criteria
+  nameWithType: BaseEntry.Criteria
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Entries
+  name: Entries
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Entries
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Entries
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Entries
+  nameWithType: BaseEntry.Entries
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.ID
+  name: ID
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_ID
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.ID
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.ID
+  nameWithType: BaseEntry.ID
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  name: Invoke(ITypewriterContext)
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Invoke_Aarthificial_Typewriter_Common_ITypewriterContext_
+  commentId: M:Aarthificial.Typewriter.Entries.BaseEntry.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  nameWithType: BaseEntry.Invoke(ITypewriterContext)
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Invoke*
+  name: Invoke
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Invoke_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.Invoke
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Invoke
+  nameWithType: BaseEntry.Invoke
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Key
+  name: Key
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Key
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Key
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Key
+  nameWithType: BaseEntry.Key
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Modifications
+  name: Modifications
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Modifications
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Modifications
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Modifications
+  nameWithType: BaseEntry.Modifications
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Once
+  name: Once
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Once
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Once
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Once
+  nameWithType: BaseEntry.Once
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Padding
+  name: Padding
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Padding
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Padding
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Padding
+  nameWithType: BaseEntry.Padding
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: RemoveFromTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_RemoveFromTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.BaseEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: BaseEntry.RemoveFromTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.RemoveFromTable*
+  name: RemoveFromTable
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_RemoveFromTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.RemoveFromTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.RemoveFromTable
+  nameWithType: BaseEntry.RemoveFromTable
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Scope
+  name: Scope
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Scope
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Scope
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Scope
+  nameWithType: BaseEntry.Scope
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Test(Aarthificial.Typewriter.Common.ITypewriterContext)
+  name: Test(ITypewriterContext)
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Test_Aarthificial_Typewriter_Common_ITypewriterContext_
+  commentId: M:Aarthificial.Typewriter.Entries.BaseEntry.Test(Aarthificial.Typewriter.Common.ITypewriterContext)
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Test(Aarthificial.Typewriter.Common.ITypewriterContext)
+  nameWithType: BaseEntry.Test(ITypewriterContext)
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Test*
+  name: Test
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Test_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.Test
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Test
+  nameWithType: BaseEntry.Test
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.ToString
+  name: ToString()
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_ToString
+  commentId: M:Aarthificial.Typewriter.Entries.BaseEntry.ToString
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.ToString()
+  nameWithType: BaseEntry.ToString()
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.ToString*
+  name: ToString
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_ToString_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.ToString
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.ToString
+  nameWithType: BaseEntry.ToString
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.TriggerList
+  name: BaseEntry.TriggerList
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.html
+  commentId: T:Aarthificial.Typewriter.Entries.BaseEntry.TriggerList
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.TriggerList
+  nameWithType: BaseEntry.TriggerList
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.List
+  name: List
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.html#Aarthificial_Typewriter_Entries_BaseEntry_TriggerList_List
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.List
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.List
+  nameWithType: BaseEntry.TriggerList.List
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Triggers
+  name: Triggers
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Triggers
+  commentId: F:Aarthificial.Typewriter.Entries.BaseEntry.Triggers
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Triggers
+  nameWithType: BaseEntry.Triggers
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Weight
+  name: Weight
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Weight
+  commentId: P:Aarthificial.Typewriter.Entries.BaseEntry.Weight
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Weight
+  nameWithType: BaseEntry.Weight
+- uid: Aarthificial.Typewriter.Entries.BaseEntry.Weight*
+  name: Weight
+  href: api/Aarthificial.Typewriter.Entries.BaseEntry.html#Aarthificial_Typewriter_Entries_BaseEntry_Weight_
+  commentId: Overload:Aarthificial.Typewriter.Entries.BaseEntry.Weight
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.BaseEntry.Weight
+  nameWithType: BaseEntry.Weight
+- uid: Aarthificial.Typewriter.Entries.EntryType
+  name: EntryType
+  href: api/Aarthificial.Typewriter.Entries.EntryType.html
+  commentId: T:Aarthificial.Typewriter.Entries.EntryType
+  fullName: Aarthificial.Typewriter.Entries.EntryType
+  nameWithType: EntryType
+- uid: Aarthificial.Typewriter.Entries.EntryType.Event
+  name: Event
+  href: api/Aarthificial.Typewriter.Entries.EntryType.html#Aarthificial_Typewriter_Entries_EntryType_Event
+  commentId: F:Aarthificial.Typewriter.Entries.EntryType.Event
+  fullName: Aarthificial.Typewriter.Entries.EntryType.Event
+  nameWithType: EntryType.Event
+- uid: Aarthificial.Typewriter.Entries.EntryType.Fact
+  name: Fact
+  href: api/Aarthificial.Typewriter.Entries.EntryType.html#Aarthificial_Typewriter_Entries_EntryType_Fact
+  commentId: F:Aarthificial.Typewriter.Entries.EntryType.Fact
+  fullName: Aarthificial.Typewriter.Entries.EntryType.Fact
+  nameWithType: EntryType.Fact
+- uid: Aarthificial.Typewriter.Entries.EntryType.Rule
+  name: Rule
+  href: api/Aarthificial.Typewriter.Entries.EntryType.html#Aarthificial_Typewriter_Entries_EntryType_Rule
+  commentId: F:Aarthificial.Typewriter.Entries.EntryType.Rule
+  fullName: Aarthificial.Typewriter.Entries.EntryType.Rule
+  nameWithType: EntryType.Rule
+- uid: Aarthificial.Typewriter.Entries.EventEntry
+  name: EventEntry
+  href: api/Aarthificial.Typewriter.Entries.EventEntry.html
+  commentId: T:Aarthificial.Typewriter.Entries.EventEntry
+  fullName: Aarthificial.Typewriter.Entries.EventEntry
+  nameWithType: EventEntry
+- uid: Aarthificial.Typewriter.Entries.EventEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: AddToTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.EventEntry.html#Aarthificial_Typewriter_Entries_EventEntry_AddToTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.EventEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.EventEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: EventEntry.AddToTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.EventEntry.AddToTable*
+  name: AddToTable
+  href: api/Aarthificial.Typewriter.Entries.EventEntry.html#Aarthificial_Typewriter_Entries_EventEntry_AddToTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.EventEntry.AddToTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.EventEntry.AddToTable
+  nameWithType: EventEntry.AddToTable
+- uid: Aarthificial.Typewriter.Entries.EventEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: RemoveFromTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.EventEntry.html#Aarthificial_Typewriter_Entries_EventEntry_RemoveFromTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.EventEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.EventEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: EventEntry.RemoveFromTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.EventEntry.RemoveFromTable*
+  name: RemoveFromTable
+  href: api/Aarthificial.Typewriter.Entries.EventEntry.html#Aarthificial_Typewriter_Entries_EventEntry_RemoveFromTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.EventEntry.RemoveFromTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.EventEntry.RemoveFromTable
+  nameWithType: EventEntry.RemoveFromTable
+- uid: Aarthificial.Typewriter.Entries.FactEntry
+  name: FactEntry
+  href: api/Aarthificial.Typewriter.Entries.FactEntry.html
+  commentId: T:Aarthificial.Typewriter.Entries.FactEntry
+  fullName: Aarthificial.Typewriter.Entries.FactEntry
+  nameWithType: FactEntry
+- uid: Aarthificial.Typewriter.Entries.FactEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: AddToTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.FactEntry.html#Aarthificial_Typewriter_Entries_FactEntry_AddToTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.FactEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.FactEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: FactEntry.AddToTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.FactEntry.AddToTable*
+  name: AddToTable
+  href: api/Aarthificial.Typewriter.Entries.FactEntry.html#Aarthificial_Typewriter_Entries_FactEntry_AddToTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.FactEntry.AddToTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.FactEntry.AddToTable
+  nameWithType: FactEntry.AddToTable
+- uid: Aarthificial.Typewriter.Entries.FactEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: RemoveFromTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.FactEntry.html#Aarthificial_Typewriter_Entries_FactEntry_RemoveFromTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.FactEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.FactEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: FactEntry.RemoveFromTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.FactEntry.RemoveFromTable*
+  name: RemoveFromTable
+  href: api/Aarthificial.Typewriter.Entries.FactEntry.html#Aarthificial_Typewriter_Entries_FactEntry_RemoveFromTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.FactEntry.RemoveFromTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.FactEntry.RemoveFromTable
+  nameWithType: FactEntry.RemoveFromTable
+- uid: Aarthificial.Typewriter.Entries.RuleEntry
+  name: RuleEntry
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html
+  commentId: T:Aarthificial.Typewriter.Entries.RuleEntry
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry
+  nameWithType: RuleEntry
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: AddToTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_AddToTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.RuleEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.AddToTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: RuleEntry.AddToTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.AddToTable*
+  name: AddToTable
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_AddToTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.RuleEntry.AddToTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.AddToTable
+  nameWithType: RuleEntry.AddToTable
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Apply(Aarthificial.Typewriter.Common.ITypewriterContext)
+  name: Apply(ITypewriterContext)
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_Apply_Aarthificial_Typewriter_Common_ITypewriterContext_
+  commentId: M:Aarthificial.Typewriter.Entries.RuleEntry.Apply(Aarthificial.Typewriter.Common.ITypewriterContext)
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Apply(Aarthificial.Typewriter.Common.ITypewriterContext)
+  nameWithType: RuleEntry.Apply(ITypewriterContext)
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Apply*
+  name: Apply
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_Apply_
+  commentId: Overload:Aarthificial.Typewriter.Entries.RuleEntry.Apply
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Apply
+  nameWithType: RuleEntry.Apply
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Dispatch(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher[])
+  name: Dispatch(ITypewriterContext, Dispatcher[])
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_Dispatch_Aarthificial_Typewriter_Common_ITypewriterContext_Aarthificial_Typewriter_Entries_RuleEntry_Dispatcher___
+  commentId: M:Aarthificial.Typewriter.Entries.RuleEntry.Dispatch(Aarthificial.Typewriter.Common.ITypewriterContext,Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher[])
+  name.vb: Dispatch(ITypewriterContext, Dispatcher())
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Dispatch(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher[])
+  fullName.vb: Aarthificial.Typewriter.Entries.RuleEntry.Dispatch(Aarthificial.Typewriter.Common.ITypewriterContext, Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher())
+  nameWithType: RuleEntry.Dispatch(ITypewriterContext, RuleEntry.Dispatcher[])
+  nameWithType.vb: RuleEntry.Dispatch(ITypewriterContext, RuleEntry.Dispatcher())
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Dispatch*
+  name: Dispatch
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_Dispatch_
+  commentId: Overload:Aarthificial.Typewriter.Entries.RuleEntry.Dispatch
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Dispatch
+  nameWithType: RuleEntry.Dispatch
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher
+  name: RuleEntry.Dispatcher
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.html
+  commentId: T:Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher
+  nameWithType: RuleEntry.Dispatcher
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.Reference
+  name: Reference
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.html#Aarthificial_Typewriter_Entries_RuleEntry_Dispatcher_Reference
+  commentId: F:Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.Reference
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.Reference
+  nameWithType: RuleEntry.Dispatcher.Reference
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  name: Invoke(ITypewriterContext)
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_Invoke_Aarthificial_Typewriter_Common_ITypewriterContext_
+  commentId: M:Aarthificial.Typewriter.Entries.RuleEntry.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  nameWithType: RuleEntry.Invoke(ITypewriterContext)
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.Invoke*
+  name: Invoke
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_Invoke_
+  commentId: Overload:Aarthificial.Typewriter.Entries.RuleEntry.Invoke
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.Invoke
+  nameWithType: RuleEntry.Invoke
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.OnApply
+  name: OnApply
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_OnApply
+  commentId: F:Aarthificial.Typewriter.Entries.RuleEntry.OnApply
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.OnApply
+  nameWithType: RuleEntry.OnApply
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.OnInvoke
+  name: OnInvoke
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_OnInvoke
+  commentId: F:Aarthificial.Typewriter.Entries.RuleEntry.OnInvoke
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.OnInvoke
+  nameWithType: RuleEntry.OnInvoke
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  name: RemoveFromTable(DatabaseTable)
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_RemoveFromTable_Aarthificial_Typewriter_Common_DatabaseTable_
+  commentId: M:Aarthificial.Typewriter.Entries.RuleEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.RemoveFromTable(Aarthificial.Typewriter.Common.DatabaseTable)
+  nameWithType: RuleEntry.RemoveFromTable(DatabaseTable)
+- uid: Aarthificial.Typewriter.Entries.RuleEntry.RemoveFromTable*
+  name: RemoveFromTable
+  href: api/Aarthificial.Typewriter.Entries.RuleEntry.html#Aarthificial_Typewriter_Entries_RuleEntry_RemoveFromTable_
+  commentId: Overload:Aarthificial.Typewriter.Entries.RuleEntry.RemoveFromTable
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Entries.RuleEntry.RemoveFromTable
+  nameWithType: RuleEntry.RemoveFromTable
+- uid: Aarthificial.Typewriter.Entries.ScopeEntry
+  name: ScopeEntry
+  href: api/Aarthificial.Typewriter.Entries.ScopeEntry.html
+  commentId: T:Aarthificial.Typewriter.Entries.ScopeEntry
+  fullName: Aarthificial.Typewriter.Entries.ScopeEntry
+  nameWithType: ScopeEntry
+- uid: Aarthificial.Typewriter.References
+  name: Aarthificial.Typewriter.References
+  href: api/Aarthificial.Typewriter.References.html
+  commentId: N:Aarthificial.Typewriter.References
+  fullName: Aarthificial.Typewriter.References
+  nameWithType: Aarthificial.Typewriter.References
+- uid: Aarthificial.Typewriter.References.EntryReference
+  name: EntryReference
+  href: api/Aarthificial.Typewriter.References.EntryReference.html
+  commentId: T:Aarthificial.Typewriter.References.EntryReference
+  fullName: Aarthificial.Typewriter.References.EntryReference
+  nameWithType: EntryReference
+- uid: Aarthificial.Typewriter.References.EntryReference.Equals(Aarthificial.Typewriter.References.EntryReference)
+  name: Equals(EntryReference)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_Equals_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.Equals(Aarthificial.Typewriter.References.EntryReference)
+  fullName: Aarthificial.Typewriter.References.EntryReference.Equals(Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: EntryReference.Equals(EntryReference)
+- uid: Aarthificial.Typewriter.References.EntryReference.Equals(System.Object)
+  name: Equals(object)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_Equals_System_Object_
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.Equals(System.Object)
+  name.vb: Equals(Object)
+  fullName: Aarthificial.Typewriter.References.EntryReference.Equals(object)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.Equals(Object)
+  nameWithType: EntryReference.Equals(object)
+  nameWithType.vb: EntryReference.Equals(Object)
+- uid: Aarthificial.Typewriter.References.EntryReference.Equals*
+  name: Equals
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_Equals_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.Equals
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.References.EntryReference.Equals
+  nameWithType: EntryReference.Equals
+- uid: Aarthificial.Typewriter.References.EntryReference.GetEntry
+  name: GetEntry()
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_GetEntry
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.GetEntry
+  fullName: Aarthificial.Typewriter.References.EntryReference.GetEntry()
+  nameWithType: EntryReference.GetEntry()
+- uid: Aarthificial.Typewriter.References.EntryReference.GetEntry*
+  name: GetEntry
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_GetEntry_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.GetEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.References.EntryReference.GetEntry
+  nameWithType: EntryReference.GetEntry
+- uid: Aarthificial.Typewriter.References.EntryReference.GetHashCode
+  name: GetHashCode()
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_GetHashCode
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.GetHashCode
+  fullName: Aarthificial.Typewriter.References.EntryReference.GetHashCode()
+  nameWithType: EntryReference.GetHashCode()
+- uid: Aarthificial.Typewriter.References.EntryReference.GetHashCode*
+  name: GetHashCode
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_GetHashCode_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.GetHashCode
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.References.EntryReference.GetHashCode
+  nameWithType: EntryReference.GetHashCode
+- uid: Aarthificial.Typewriter.References.EntryReference.HasValue
+  name: HasValue
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_HasValue
+  commentId: P:Aarthificial.Typewriter.References.EntryReference.HasValue
+  fullName: Aarthificial.Typewriter.References.EntryReference.HasValue
+  nameWithType: EntryReference.HasValue
+- uid: Aarthificial.Typewriter.References.EntryReference.HasValue*
+  name: HasValue
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_HasValue_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.HasValue
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.References.EntryReference.HasValue
+  nameWithType: EntryReference.HasValue
+- uid: Aarthificial.Typewriter.References.EntryReference.ID
+  name: ID
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_ID
+  commentId: P:Aarthificial.Typewriter.References.EntryReference.ID
+  fullName: Aarthificial.Typewriter.References.EntryReference.ID
+  nameWithType: EntryReference.ID
+- uid: Aarthificial.Typewriter.References.EntryReference.ID*
+  name: ID
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_ID_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.ID
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.References.EntryReference.ID
+  nameWithType: EntryReference.ID
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Equality(Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.References.EntryReference)
+  name: operator ==(EntryReference, EntryReference)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Equality_Aarthificial_Typewriter_References_EntryReference_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.op_Equality(Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.References.EntryReference)
+  name.vb: =(EntryReference, EntryReference)
+  fullName: Aarthificial.Typewriter.References.EntryReference.operator ==(Aarthificial.Typewriter.References.EntryReference, Aarthificial.Typewriter.References.EntryReference)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.=(Aarthificial.Typewriter.References.EntryReference, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: EntryReference.operator ==(EntryReference, EntryReference)
+  nameWithType.vb: EntryReference.=(EntryReference, EntryReference)
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Equality*
+  name: operator ==
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Equality_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.op_Equality
+  isSpec: "True"
+  name.vb: =
+  fullName: Aarthificial.Typewriter.References.EntryReference.operator ==
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.=
+  nameWithType: EntryReference.operator ==
+  nameWithType.vb: EntryReference.=
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Explicit(Aarthificial.Typewriter.Entries.BaseEntry)~Aarthificial.Typewriter.References.EntryReference
+  name: explicit operator EntryReference(BaseEntry)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Explicit_Aarthificial_Typewriter_Entries_BaseEntry__Aarthificial_Typewriter_References_EntryReference
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.op_Explicit(Aarthificial.Typewriter.Entries.BaseEntry)~Aarthificial.Typewriter.References.EntryReference
+  name.vb: CType(BaseEntry)
+  fullName: Aarthificial.Typewriter.References.EntryReference.explicit operator Aarthificial.Typewriter.References.EntryReference(Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.CType(Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: EntryReference.explicit operator EntryReference(BaseEntry)
+  nameWithType.vb: EntryReference.CType(BaseEntry)
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Explicit(Aarthificial.Typewriter.References.EntryReference)~Aarthificial.Typewriter.Entries.BaseEntry
+  name: explicit operator BaseEntry(EntryReference)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Explicit_Aarthificial_Typewriter_References_EntryReference__Aarthificial_Typewriter_Entries_BaseEntry
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.op_Explicit(Aarthificial.Typewriter.References.EntryReference)~Aarthificial.Typewriter.Entries.BaseEntry
+  name.vb: CType(EntryReference)
+  fullName: Aarthificial.Typewriter.References.EntryReference.explicit operator Aarthificial.Typewriter.Entries.BaseEntry(Aarthificial.Typewriter.References.EntryReference)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.CType(Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: EntryReference.explicit operator BaseEntry(EntryReference)
+  nameWithType.vb: EntryReference.CType(EntryReference)
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Explicit*
+  name: explicit operator
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Explicit_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.op_Explicit
+  isSpec: "True"
+  name.vb: CType
+  fullName: Aarthificial.Typewriter.References.EntryReference.explicit operator
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.CType
+  nameWithType: EntryReference.explicit operator
+  nameWithType.vb: EntryReference.CType
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Implicit(Aarthificial.Typewriter.References.EntryReference)~System.Int32
+  name: implicit operator int(EntryReference)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Implicit_Aarthificial_Typewriter_References_EntryReference__System_Int32
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.op_Implicit(Aarthificial.Typewriter.References.EntryReference)~System.Int32
+  name.vb: CType(EntryReference)
+  fullName: Aarthificial.Typewriter.References.EntryReference.implicit operator int(Aarthificial.Typewriter.References.EntryReference)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.CType(Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: EntryReference.implicit operator int(EntryReference)
+  nameWithType.vb: EntryReference.CType(EntryReference)
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Implicit(System.Int32)~Aarthificial.Typewriter.References.EntryReference
+  name: implicit operator EntryReference(int)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Implicit_System_Int32__Aarthificial_Typewriter_References_EntryReference
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.op_Implicit(System.Int32)~Aarthificial.Typewriter.References.EntryReference
+  name.vb: CType(Integer)
+  fullName: Aarthificial.Typewriter.References.EntryReference.implicit operator Aarthificial.Typewriter.References.EntryReference(int)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.CType(Integer)
+  nameWithType: EntryReference.implicit operator EntryReference(int)
+  nameWithType.vb: EntryReference.CType(Integer)
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Implicit*
+  name: implicit operator
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Implicit_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.op_Implicit
+  isSpec: "True"
+  name.vb: CType
+  fullName: Aarthificial.Typewriter.References.EntryReference.implicit operator
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.CType
+  nameWithType: EntryReference.implicit operator
+  nameWithType.vb: EntryReference.CType
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Inequality(Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.References.EntryReference)
+  name: operator !=(EntryReference, EntryReference)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Inequality_Aarthificial_Typewriter_References_EntryReference_Aarthificial_Typewriter_References_EntryReference_
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.op_Inequality(Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.References.EntryReference)
+  name.vb: <>(EntryReference, EntryReference)
+  fullName: Aarthificial.Typewriter.References.EntryReference.operator !=(Aarthificial.Typewriter.References.EntryReference, Aarthificial.Typewriter.References.EntryReference)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.<>(Aarthificial.Typewriter.References.EntryReference, Aarthificial.Typewriter.References.EntryReference)
+  nameWithType: EntryReference.operator !=(EntryReference, EntryReference)
+  nameWithType.vb: EntryReference.<>(EntryReference, EntryReference)
+- uid: Aarthificial.Typewriter.References.EntryReference.op_Inequality*
+  name: operator !=
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Inequality_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.op_Inequality
+  isSpec: "True"
+  name.vb: <>
+  fullName: Aarthificial.Typewriter.References.EntryReference.operator !=
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.<>
+  nameWithType: EntryReference.operator !=
+  nameWithType.vb: EntryReference.<>
+- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry@)
+  name: TryGetEntry(out BaseEntry)
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry_Aarthificial_Typewriter_Entries_BaseEntry__
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry@)
+  name.vb: TryGetEntry(BaseEntry)
+  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(out Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: EntryReference.TryGetEntry(out BaseEntry)
+  nameWithType.vb: EntryReference.TryGetEntry(BaseEntry)
+- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry*
+  name: TryGetEntry
+  href: api/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.TryGetEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry
+  nameWithType: EntryReference.TryGetEntry
+- uid: Aarthificial.Typewriter.Tools
+  name: Aarthificial.Typewriter.Tools
+  href: api/Aarthificial.Typewriter.Tools.html
+  commentId: N:Aarthificial.Typewriter.Tools
+  fullName: Aarthificial.Typewriter.Tools
+  nameWithType: Aarthificial.Typewriter.Tools
+- uid: Aarthificial.Typewriter.Tools.EventObserver
+  name: EventObserver
+  href: api/Aarthificial.Typewriter.Tools.EventObserver.html
+  commentId: T:Aarthificial.Typewriter.Tools.EventObserver
+  fullName: Aarthificial.Typewriter.Tools.EventObserver
+  nameWithType: EventObserver
+- uid: Aarthificial.Typewriter.Tools.TypewriterCriteria
+  name: TypewriterCriteria
+  href: api/Aarthificial.Typewriter.Tools.TypewriterCriteria.html
+  commentId: T:Aarthificial.Typewriter.Tools.TypewriterCriteria
+  fullName: Aarthificial.Typewriter.Tools.TypewriterCriteria
+  nameWithType: TypewriterCriteria
+- uid: Aarthificial.Typewriter.Tools.TypewriterCriteria.HasValue
+  name: HasValue
+  href: api/Aarthificial.Typewriter.Tools.TypewriterCriteria.html#Aarthificial_Typewriter_Tools_TypewriterCriteria_HasValue
+  commentId: P:Aarthificial.Typewriter.Tools.TypewriterCriteria.HasValue
+  fullName: Aarthificial.Typewriter.Tools.TypewriterCriteria.HasValue
+  nameWithType: TypewriterCriteria.HasValue
+- uid: Aarthificial.Typewriter.Tools.TypewriterCriteria.HasValue*
+  name: HasValue
+  href: api/Aarthificial.Typewriter.Tools.TypewriterCriteria.html#Aarthificial_Typewriter_Tools_TypewriterCriteria_HasValue_
+  commentId: Overload:Aarthificial.Typewriter.Tools.TypewriterCriteria.HasValue
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Tools.TypewriterCriteria.HasValue
+  nameWithType: TypewriterCriteria.HasValue
+- uid: Aarthificial.Typewriter.Tools.TypewriterEvent
+  name: TypewriterEvent
+  href: api/Aarthificial.Typewriter.Tools.TypewriterEvent.html
+  commentId: T:Aarthificial.Typewriter.Tools.TypewriterEvent
+  fullName: Aarthificial.Typewriter.Tools.TypewriterEvent
+  nameWithType: TypewriterEvent
+- uid: Aarthificial.Typewriter.Tools.TypewriterEvent.EventReference
+  name: EventReference
+  href: api/Aarthificial.Typewriter.Tools.TypewriterEvent.html#Aarthificial_Typewriter_Tools_TypewriterEvent_EventReference
+  commentId: F:Aarthificial.Typewriter.Tools.TypewriterEvent.EventReference
+  fullName: Aarthificial.Typewriter.Tools.TypewriterEvent.EventReference
+  nameWithType: TypewriterEvent.EventReference
+- uid: Aarthificial.Typewriter.Tools.TypewriterEvent.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  name: Invoke(ITypewriterContext)
+  href: api/Aarthificial.Typewriter.Tools.TypewriterEvent.html#Aarthificial_Typewriter_Tools_TypewriterEvent_Invoke_Aarthificial_Typewriter_Common_ITypewriterContext_
+  commentId: M:Aarthificial.Typewriter.Tools.TypewriterEvent.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  fullName: Aarthificial.Typewriter.Tools.TypewriterEvent.Invoke(Aarthificial.Typewriter.Common.ITypewriterContext)
+  nameWithType: TypewriterEvent.Invoke(ITypewriterContext)
+- uid: Aarthificial.Typewriter.Tools.TypewriterEvent.Invoke*
+  name: Invoke
+  href: api/Aarthificial.Typewriter.Tools.TypewriterEvent.html#Aarthificial_Typewriter_Tools_TypewriterEvent_Invoke_
+  commentId: Overload:Aarthificial.Typewriter.Tools.TypewriterEvent.Invoke
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Tools.TypewriterEvent.Invoke
+  nameWithType: TypewriterEvent.Invoke
+- uid: Aarthificial.Typewriter.Tools.TypewriterModification
+  name: TypewriterModification
+  href: api/Aarthificial.Typewriter.Tools.TypewriterModification.html
+  commentId: T:Aarthificial.Typewriter.Tools.TypewriterModification
+  fullName: Aarthificial.Typewriter.Tools.TypewriterModification
+  nameWithType: TypewriterModification
+- uid: Aarthificial.Typewriter.Tools.TypewriterModification.HasValue
+  name: HasValue
+  href: api/Aarthificial.Typewriter.Tools.TypewriterModification.html#Aarthificial_Typewriter_Tools_TypewriterModification_HasValue
+  commentId: P:Aarthificial.Typewriter.Tools.TypewriterModification.HasValue
+  fullName: Aarthificial.Typewriter.Tools.TypewriterModification.HasValue
+  nameWithType: TypewriterModification.HasValue
+- uid: Aarthificial.Typewriter.Tools.TypewriterModification.HasValue*
+  name: HasValue
+  href: api/Aarthificial.Typewriter.Tools.TypewriterModification.html#Aarthificial_Typewriter_Tools_TypewriterModification_HasValue_
+  commentId: Overload:Aarthificial.Typewriter.Tools.TypewriterModification.HasValue
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Tools.TypewriterModification.HasValue
+  nameWithType: TypewriterModification.HasValue
+- uid: Aarthificial.Typewriter.Tools.TypewriterWatcher
+  name: TypewriterWatcher
+  href: api/Aarthificial.Typewriter.Tools.TypewriterWatcher.html
+  commentId: T:Aarthificial.Typewriter.Tools.TypewriterWatcher
+  fullName: Aarthificial.Typewriter.Tools.TypewriterWatcher
+  nameWithType: TypewriterWatcher
+- uid: Aarthificial.Typewriter.Tools.TypewriterWatcher.ShouldUpdate
+  name: ShouldUpdate()
+  href: api/Aarthificial.Typewriter.Tools.TypewriterWatcher.html#Aarthificial_Typewriter_Tools_TypewriterWatcher_ShouldUpdate
+  commentId: M:Aarthificial.Typewriter.Tools.TypewriterWatcher.ShouldUpdate
+  fullName: Aarthificial.Typewriter.Tools.TypewriterWatcher.ShouldUpdate()
+  nameWithType: TypewriterWatcher.ShouldUpdate()
+- uid: Aarthificial.Typewriter.Tools.TypewriterWatcher.ShouldUpdate*
+  name: ShouldUpdate
+  href: api/Aarthificial.Typewriter.Tools.TypewriterWatcher.html#Aarthificial_Typewriter_Tools_TypewriterWatcher_ShouldUpdate_
+  commentId: Overload:Aarthificial.Typewriter.Tools.TypewriterWatcher.ShouldUpdate
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Tools.TypewriterWatcher.ShouldUpdate
+  nameWithType: TypewriterWatcher.ShouldUpdate

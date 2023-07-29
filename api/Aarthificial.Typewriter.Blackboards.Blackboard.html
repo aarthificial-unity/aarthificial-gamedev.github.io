@@ -1,0 +1,602 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Class Blackboard
+ | Typewriter </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Class Blackboard
+ | Typewriter ">
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../public/docfx.min.css">
+      <link rel="stylesheet" href="../public/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      <meta name="docfx:rel" content="../">
+      
+      
+      
+  </head>
+
+  <script type="module">
+    import options from './../public/main.js'
+    import { init } from './../public/docfx.min.js'
+    init(options)
+  </script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="ManagedReference">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../logo.svg" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled="" placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="Aarthificial.Typewriter.Blackboards.Blackboard">
+
+
+
+  <h1 id="Aarthificial_Typewriter_Blackboards_Blackboard" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard" class="text-break">
+    Class Blackboard
+  
+  </h1>
+
+  <div class="facts text-secondary">
+    <dl><dt>Namespace</dt><dd><a class="xref" href="Aarthificial.html">Aarthificial</a>.<a class="xref" href="Aarthificial.Typewriter.html">Typewriter</a>.<a class="xref" href="Aarthificial.Typewriter.Blackboards.html">Blackboards</a></dd></dl>
+  <dl><dt>Assembly</dt><dd>Aarthificial.Typewriter.dll</dd></dl>
+  </div>
+
+  <div class="markdown summary"></div>
+  <div class="markdown conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">[Serializable]
+public class Blackboard : ISerializationCallbackReceiver, IBlackboard, IEnumerable&lt;Blackboard.Pair&gt;, IEnumerable</code></pre>
+  </div>
+
+
+
+
+  <dl class="typelist inheritance">
+    <dt>Inheritance</dt>
+    <dd>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
+      <div><span class="xref">Blackboard</span></div>
+    </dd>
+  </dl>
+
+  <dl class="typelist implements">
+    <dt>Implements</dt>
+    <dd>
+      <div><a class="xref" href="https://docs.unity3d.com/ScriptReference/ISerializationCallbackReceiver.html">ISerializationCallbackReceiver</a></div>
+      <div><a class="xref" href="Aarthificial.Typewriter.Blackboards.IBlackboard.html">IBlackboard</a></div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1">IEnumerable</a>&lt;<a class="xref" href="Aarthificial.Typewriter.Blackboards.Blackboard.html">Blackboard</a>.<a class="xref" href="Aarthificial.Typewriter.Blackboards.Blackboard.Pair.html">Pair</a>&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable">IEnumerable</a></div>
+    </dd>
+  </dl>
+
+
+  <dl class="typelist derived">
+    <dt>Inherited Members</dt>
+    <dd>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)">object.Equals(object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)">object.Equals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode">object.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gettype">object.GetType()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone">object.MemberwiseClone()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.referenceequals">object.ReferenceEquals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.tostring">object.ToString()</a>
+    </div>
+  </dd></dl>
+
+
+
+
+
+
+  <h2 class="section" id="methods">Methods
+</h2>
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_Add_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Add*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_Add_System_Int32_System_Int32_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Add(System.Int32,System.Int32)">
+  Add(int, int)
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Add(int key, int value)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>key</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dd></dd>
+    <dt><code>value</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_Clear_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Clear*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_Clear" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Clear">
+  Clear()
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Clear()</code></pre>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_Clone_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Clone*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_Clone" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Clone">
+  Clone()
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>Create new blackboard containing the same facts as this instance.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IBlackboard Clone()</code></pre>
+  </div>
+
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="Aarthificial.Typewriter.Blackboards.IBlackboard.html">IBlackboard</a></dt>
+    <dd><p>Newly created blackboard instance.</p>
+</dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_CloneWith_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_CloneWith_Aarthificial_Typewriter_Blackboards_IBlackboard_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.CloneWith(Aarthificial.Typewriter.Blackboards.IBlackboard)">
+  CloneWith(IBlackboard)
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>Create new blackboard with facts from both this instance and another.
+blackboard.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IBlackboard CloneWith(IBlackboard other)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>other</code> <a class="xref" href="Aarthificial.Typewriter.Blackboards.IBlackboard.html">IBlackboard</a></dt>
+    <dd><p>Source of additional facts</p>
+</dd>
+  </dl>
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="Aarthificial.Typewriter.Blackboards.IBlackboard.html">IBlackboard</a></dt>
+    <dd><p>Newly created blackboard instance.</p>
+</dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_Get_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Get*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_Get_System_Int32_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Get(System.Int32)">
+  Get(int)
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Get(int key)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>key</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dd></dd>
+  </dl>
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_GetEnumerator_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_GetEnumerator" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator">
+  GetEnumerator()
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IEnumerator&lt;Blackboard.Pair&gt; GetEnumerator()</code></pre>
+  </div>
+
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerator-1">IEnumerator</a>&lt;<a class="xref" href="Aarthificial.Typewriter.Blackboards.Blackboard.html">Blackboard</a>.<a class="xref" href="Aarthificial.Typewriter.Blackboards.Blackboard.Pair.html">Pair</a>&gt;</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_MergeWith_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_MergeWith_Aarthificial_Typewriter_Blackboards_IBlackboard_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)">
+  MergeWith(IBlackboard)
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>Add facts from another blackboard to this instance.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void MergeWith(IBlackboard other)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>other</code> <a class="xref" href="Aarthificial.Typewriter.Blackboards.IBlackboard.html">IBlackboard</a></dt>
+    <dd><p>Source of additional facts.</p>
+</dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_Modify_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Modify*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_Modify_Aarthificial_Typewriter_Blackboards_BlackboardModification_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Modify(Aarthificial.Typewriter.Blackboards.BlackboardModification)">
+  Modify(BlackboardModification)
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Modify(BlackboardModification modification)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>modification</code> <a class="xref" href="Aarthificial.Typewriter.Blackboards.BlackboardModification.html">BlackboardModification</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_OnAfterDeserialize_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_OnAfterDeserialize" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.OnAfterDeserialize">
+  OnAfterDeserialize()
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>Implement this method to receive a callback after Unity deserializes your object.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void OnAfterDeserialize()</code></pre>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_OnBeforeSerialize_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_OnBeforeSerialize" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.OnBeforeSerialize">
+  OnBeforeSerialize()
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>Implement this method to receive a callback before Unity serializes your object.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void OnBeforeSerialize()</code></pre>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_ReplaceWith_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_ReplaceWith_Aarthificial_Typewriter_Blackboards_IBlackboard_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith(Aarthificial.Typewriter.Blackboards.IBlackboard)">
+  ReplaceWith(IBlackboard)
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>Replace contents of this instance with facts from another blackboard.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void ReplaceWith(IBlackboard other)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>other</code> <a class="xref" href="Aarthificial.Typewriter.Blackboards.IBlackboard.html">IBlackboard</a></dt>
+    <dd><p>Source of new facts.</p>
+</dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_Set_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Set*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_Set_System_Int32_System_Int32_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Int32)">
+  Set(int, int)
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Set(int key, int value)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>key</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dd></dd>
+    <dt><code>value</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="Aarthificial_Typewriter_Blackboards_Blackboard_Test_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Test*"></a>
+
+  <h3 id="Aarthificial_Typewriter_Blackboards_Blackboard_Test_Aarthificial_Typewriter_Blackboards_BlackboardCriterion_" data-uid="Aarthificial.Typewriter.Blackboards.Blackboard.Test(Aarthificial.Typewriter.Blackboards.BlackboardCriterion)">
+  Test(BlackboardCriterion)
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Test(BlackboardCriterion criterion)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>criterion</code> <a class="xref" href="Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html">BlackboardCriterion</a></dt>
+    <dd></dd>
+  </dl>
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+</article>
+
+        <div class="contribution d-print-none">
+        </div>
+
+        
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          Where would this be?
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
