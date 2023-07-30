@@ -23,416 +23,1209 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterEvents.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterEvents.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Attributes.RecreateLookupAttribute.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterModificationProcessor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Attributes.RecreateLookupAttribute.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterModificationProcessor.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Attributes.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterUtils.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Attributes.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterUtils.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.Blackboard.Pair.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.Blackboard.Pair.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Common.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.Blackboard.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.CustomEntryDescriptorAttribute.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.Blackboard.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.CustomEntryDescriptorAttribute.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.EntryDescriptor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.EntryDescriptor.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.EventEntryDescriptor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.EventEntryDescriptor.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.FactEntryDescriptor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.FactEntryDescriptor.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardModification.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.RuleEntryDescriptor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.BlackboardModification.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.RuleEntryDescriptor.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.ScopeEntryDescriptor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.ScopeEntryDescriptor.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.IBlackboard.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.IBlackboard.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Descriptors.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Blackboards.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.CollectionCategoryExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Blackboards.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.CollectionCategoryExtensions.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Common.DatabaseTable.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.SerializedPropertyExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Common.DatabaseTable.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.SerializedPropertyExtensions.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Common.ITypewriterContext.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.VisualElementExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Common.ITypewriterContext.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.VisualElementExtensions.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Extensions.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.DatabaseView.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.DatabaseView.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Common.TypewriterDatabase.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.DatabaseView.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Common.TypewriterDatabase.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.DatabaseView.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Common.UidGenerator.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.EntryListView.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Common.UidGenerator.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.EntryListView.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Common.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.EntryListView.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Common.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.EntryListView.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Customization.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Customization.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.BaseEntry.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Customization.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.BaseEntry.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Customization.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.EntryType.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Navigator.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.EntryType.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Navigator.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.EventEntry.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Navigator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.EventEntry.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Navigator.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.FactEntry.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.NavigatorButton.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.FactEntry.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.NavigatorButton.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.NavigatorButton.UxmlTraits.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.NavigatorButton.UxmlTraits.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.RuleEntry.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.NavigatorButton.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.RuleEntry.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.NavigatorButton.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.ScopeEntry.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Toolbar.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.ScopeEntry.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Toolbar.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Entries.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Toolbar.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Entries.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.Toolbar.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.References.EntryReference.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.References.EntryReference.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.Inspector.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.References.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.InspectorView.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.References.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.InspectorView.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Tools.EventObserver.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.InspectorView.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Tools.EventObserver.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.InspectorView.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterCriteria.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TabbedView.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterCriteria.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TabbedView.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterEvent.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TabbedView.UxmlTraits.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterEvent.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TabbedView.UxmlTraits.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterModification.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TabbedView.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterModification.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TabbedView.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterWatcher.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TableListView.UxmlFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Tools.TypewriterWatcher.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TableListView.UxmlFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Aarthificial.Typewriter.Tools.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TableListView.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Aarthificial.Typewriter.Tools.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.TableListView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Layout.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.EditableListView.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.EditableListView.UxmlFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.EditableListView.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.EditableListView.UxmlTraits.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.EditableListView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.EditableListView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.UxmlFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.UxmlTraits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.UxmlTraits.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.BaseEntryListItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.BaseEntryListItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.EditableListItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.EditableListItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.LabelListItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.LabelListItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.PropertyListItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.PropertyListItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.RuleEntryListItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.RuleEntryListItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.TableListItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.TableListItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.Items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.ItemData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.ItemData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.UxmlFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.UxmlFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.Lists.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.BaseEntryPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.BaseEntryPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.BlackboardPairPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.BlackboardPairPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.CriterionPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.CriterionPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.DispatcherPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.DispatcherPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.EntryReferenceListPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.EntryReferenceListPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.ListWrapperPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.ListWrapperPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.ModificationPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.ModificationPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.TypewriterEventPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.TypewriterEventPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.DatabaseTreePopup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.DatabaseTreePopup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.DatabaseTreeView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.DatabaseTreeView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.EntryReferencePropertyDrawer.Styles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.EntryReferencePropertyDrawer.Styles.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.EntryReferencePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.EntryReferencePropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.TypewriterEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.TypewriterEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "api/toc.yml",
+      "source_relative_path": "api/editor/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "api/toc.html"
+          "relative_path": "api/editor/toc.html"
         },
         ".json": {
-          "relative_path": "api/toc.json"
+          "relative_path": "api/editor/toc.json"
         }
       },
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "apispec/index.md",
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.yml",
       "output": {
         ".html": {
-          "relative_path": "api/index.html"
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html"
         }
       },
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.RecreateLookupAttribute.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/intro.html"
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.RecreateLookupAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.Pair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.Pair.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.OperationType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardCriterion.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardModification.OperationType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardModification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.BlackboardModification.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.EmptyBlackboard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.IBlackboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.IBlackboard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Blackboards.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.DatabaseTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.DatabaseTable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.ITypewriterContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.ITypewriterContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterContextExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.UidGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.UidGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.BaseEntry.TriggerList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.BaseEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.BaseEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EntryType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EntryType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EventEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EventEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.FactEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.FactEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.RuleEntry.Dispatcher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.RuleEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.RuleEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.ScopeEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.ScopeEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.References.EntryReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.References.EntryReference.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.References.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.References.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Tools.EventObserver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Tools.EventObserver.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterCriteria.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterCriteria.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterModification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterModification.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterWatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Tools.TypewriterWatcher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Tools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Tools.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "articles/toc.yml",
+      "source_relative_path": "api/runtime/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/toc.html"
+          "relative_path": "api/runtime/toc.html"
         },
         ".json": {
-          "relative_path": "articles/toc.json"
+          "relative_path": "api/runtime/toc.json"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "index.md",
+      "source_relative_path": "docs/api/editor/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/api/runtime/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/index.md",
       "output": {
         ".html": {
           "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/quickstart.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/quickstart.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/banner.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo-dark.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo-dark.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/package-manager-add.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/package-manager-add.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/package-manager-path.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/package-manager-path.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/package-manager-samples.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/package-manager-samples.png"
         }
       },
       "version": ""
