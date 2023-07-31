@@ -603,10 +603,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.EntryReferenceListPropertyDrawer.yml",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.FactEntryPropertyDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.EntryReferenceListPropertyDrawer.html"
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.FactEntryPropertyDrawer.html"
         }
       },
       "version": ""
@@ -667,6 +667,16 @@
       "output": {
         ".html": {
           "relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.DatabaseTreeView.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.EntryReferenceListPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/editor/Aarthificial.Typewriter.Editor.References.EntryReferenceListPropertyDrawer.html"
         }
       },
       "version": ""
@@ -740,16 +750,6 @@
       "output": {
         ".html": {
           "relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.EntryFilterAttribute.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.RecreateLookupAttribute.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Attributes.RecreateLookupAttribute.html"
         }
       },
       "version": ""
@@ -856,70 +856,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.DatabaseTable.yml",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.DatabaseTable.yml",
       "output": {
         ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.DatabaseTable.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.ITypewriterContext.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.ITypewriterContext.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterContextExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterContextExtensions.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.EntryAction.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.TypewriterDatabase.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.UidGenerator.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.UidGenerator.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Common.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Common.html"
+          "relative_path": "api/runtime/Aarthificial.Typewriter.DatabaseTable.html"
         }
       },
       "version": ""
@@ -946,10 +886,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EntryType.yml",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EntryVariant.yml",
       "output": {
         ".html": {
-          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EntryType.html"
+          "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.EntryVariant.html"
         }
       },
       "version": ""
@@ -1010,6 +950,16 @@
       "output": {
         ".html": {
           "relative_path": "api/runtime/Aarthificial.Typewriter.Entries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.ITypewriterContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.ITypewriterContext.html"
         }
       },
       "version": ""
@@ -1090,6 +1040,46 @@
       "output": {
         ".html": {
           "relative_path": "api/runtime/Aarthificial.Typewriter.Tools.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.TypewriterContextExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.TypewriterContextExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.TypewriterDatabase.EntryAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.TypewriterDatabase.EntryAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.TypewriterDatabase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.TypewriterDatabase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/runtime/Aarthificial.Typewriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/runtime/Aarthificial.Typewriter.html"
         }
       },
       "version": ""
@@ -1196,6 +1186,26 @@
       "output": {
         "resource": {
           "relative_path": "images/logo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logotype-dark.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logotype-dark.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logotype.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logotype.svg"
         }
       },
       "version": ""

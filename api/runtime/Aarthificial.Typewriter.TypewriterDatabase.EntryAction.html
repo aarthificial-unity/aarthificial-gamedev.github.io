@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-    <title>Enum EntryType
+    <title>Delegate TypewriterDatabase.EntryAction
  | Typewriter </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="title" content="Enum EntryType
+    <meta name="title" content="Delegate TypewriterDatabase.EntryAction
  | Typewriter ">
-    <meta property="og:title" content="Enum EntryType
+    <meta property="og:title" content="Delegate TypewriterDatabase.EntryAction
  | Typewriter ">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://typewriter.aarthificial.com/images/banner.png">
@@ -86,18 +86,17 @@
         <nav id="breadcrumb"></nav>
       </div>
 
-      <article data-uid="Aarthificial.Typewriter.Entries.EntryType">
+      <article data-uid="Aarthificial.Typewriter.TypewriterDatabase.EntryAction">
 
 
 
-
-  <h1 id="Aarthificial_Typewriter_Entries_EntryType" data-uid="Aarthificial.Typewriter.Entries.EntryType" class="text-break">
-    Enum EntryType
+  <h1 id="Aarthificial_Typewriter_TypewriterDatabase_EntryAction" data-uid="Aarthificial.Typewriter.TypewriterDatabase.EntryAction" class="text-break">
+    Delegate TypewriterDatabase.EntryAction
   
   </h1>
 
   <div class="facts text-secondary">
-    <dl><dt>Namespace</dt><dd><a class="xref" href="Aarthificial.html">Aarthificial</a>.<a class="xref" href="Aarthificial.Typewriter.html">Typewriter</a>.<a class="xref" href="Aarthificial.Typewriter.Entries.html">Entries</a></dd></dl>
+    <dl><dt>Namespace</dt><dd><a class="xref" href="Aarthificial.html">Aarthificial</a>.<a class="xref" href="Aarthificial.Typewriter.html">Typewriter</a></dd></dl>
   <dl><dt>Assembly</dt><dd>Aarthificial.Typewriter.dll</dd></dl>
   </div>
 
@@ -105,28 +104,26 @@
   <div class="markdown conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">[Flags]
-public enum EntryType</code></pre>
+    <pre><code class="lang-csharp hljs">public delegate void TypewriterDatabase.EntryAction(BaseEntry entry, ITypewriterContext context)</code></pre>
   </div>
 
-
-
-
-
-
-
-
-
-  <h2 id="fields">Fields
-</h2>
+  <h4 class="section">Parameters</h4>
   <dl class="parameters">
-    <dt id="Aarthificial_Typewriter_Entries_EntryType_Event"><code>Event = 2</code></dt>
+    <dt><code>entry</code> <a class="xref" href="Aarthificial.Typewriter.Entries.BaseEntry.html">BaseEntry</a></dt>
     <dd></dd>
-    <dt id="Aarthificial_Typewriter_Entries_EntryType_Fact"><code>Fact = 1</code></dt>
-    <dd></dd>
-    <dt id="Aarthificial_Typewriter_Entries_EntryType_Rule"><code>Rule = 4</code></dt>
+    <dt><code>context</code> <a class="xref" href="Aarthificial.Typewriter.ITypewriterContext.html">ITypewriterContext</a></dt>
     <dd></dd>
   </dl>
+
+
+
+
+
+
+
+
+
+
 
 
 
