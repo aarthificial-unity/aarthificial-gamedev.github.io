@@ -2789,19 +2789,6 @@ references:
   isSpec: "True"
   fullName: Aarthificial.Typewriter.Editor.Lists.SimpleList.BindProperty
   nameWithType: SimpleList.BindProperty
-- uid: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
-  name: contentContainer
-  href: api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.html#Aarthificial_Typewriter_Editor_Lists_SimpleList_contentContainer
-  commentId: P:Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
-  fullName: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
-  nameWithType: SimpleList.contentContainer
-- uid: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer*
-  name: contentContainer
-  href: api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.html#Aarthificial_Typewriter_Editor_Lists_SimpleList_contentContainer_
-  commentId: Overload:Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
-  isSpec: "True"
-  fullName: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
-  nameWithType: SimpleList.contentContainer
 - uid: Aarthificial.Typewriter.Editor.Lists.SimpleList.CreateItem
   name: CreateItem
   href: api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.html#Aarthificial_Typewriter_Editor_Lists_SimpleList_CreateItem
@@ -2904,6 +2891,19 @@ references:
   commentId: T:Aarthificial.Typewriter.Editor.Lists.SimpleList.UxmlFactory
   fullName: Aarthificial.Typewriter.Editor.Lists.SimpleList.UxmlFactory
   nameWithType: SimpleList.UxmlFactory
+- uid: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
+  name: contentContainer
+  href: api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.html#Aarthificial_Typewriter_Editor_Lists_SimpleList_contentContainer
+  commentId: P:Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
+  fullName: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
+  nameWithType: SimpleList.contentContainer
+- uid: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer*
+  name: contentContainer
+  href: api/editor/Aarthificial.Typewriter.Editor.Lists.SimpleList.html#Aarthificial_Typewriter_Editor_Lists_SimpleList_contentContainer_
+  commentId: Overload:Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Editor.Lists.SimpleList.contentContainer
+  nameWithType: SimpleList.contentContainer
 - uid: Aarthificial.Typewriter.Editor.PropertyDrawers
   name: Aarthificial.Typewriter.Editor.PropertyDrawers
   href: api/editor/Aarthificial.Typewriter.Editor.PropertyDrawers.html
@@ -3988,6 +3988,31 @@ references:
   isSpec: "True"
   fullName: Aarthificial.Typewriter.References.EntryReference.ID
   nameWithType: EntryReference.ID
+- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry@)
+  name: TryGetEntry(out BaseEntry)
+  href: api/runtime/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry_Aarthificial_Typewriter_Entries_BaseEntry__
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry@)
+  name.vb: TryGetEntry(BaseEntry)
+  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(out Aarthificial.Typewriter.Entries.BaseEntry)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry)
+  nameWithType: EntryReference.TryGetEntry(out BaseEntry)
+  nameWithType.vb: EntryReference.TryGetEntry(BaseEntry)
+- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry*
+  name: TryGetEntry
+  href: api/runtime/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry_
+  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.TryGetEntry
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry
+  nameWithType: EntryReference.TryGetEntry
+- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry``1(``0@)
+  name: TryGetEntry<T>(out T)
+  href: api/runtime/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry__1___0__
+  commentId: M:Aarthificial.Typewriter.References.EntryReference.TryGetEntry``1(``0@)
+  name.vb: TryGetEntry(Of T)(T)
+  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry<T>(out T)
+  fullName.vb: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Of T)(T)
+  nameWithType: EntryReference.TryGetEntry<T>(out T)
+  nameWithType.vb: EntryReference.TryGetEntry(Of T)(T)
 - uid: Aarthificial.Typewriter.References.EntryReference.op_Equality(Aarthificial.Typewriter.References.EntryReference,Aarthificial.Typewriter.References.EntryReference)
   name: operator ==(EntryReference, EntryReference)
   href: api/runtime/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_op_Equality_Aarthificial_Typewriter_References_EntryReference_Aarthificial_Typewriter_References_EntryReference_
@@ -4082,31 +4107,6 @@ references:
   fullName.vb: Aarthificial.Typewriter.References.EntryReference.<>
   nameWithType: EntryReference.operator !=
   nameWithType.vb: EntryReference.<>
-- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry@)
-  name: TryGetEntry(out BaseEntry)
-  href: api/runtime/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry_Aarthificial_Typewriter_Entries_BaseEntry__
-  commentId: M:Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry@)
-  name.vb: TryGetEntry(BaseEntry)
-  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(out Aarthificial.Typewriter.Entries.BaseEntry)
-  fullName.vb: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Aarthificial.Typewriter.Entries.BaseEntry)
-  nameWithType: EntryReference.TryGetEntry(out BaseEntry)
-  nameWithType.vb: EntryReference.TryGetEntry(BaseEntry)
-- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry*
-  name: TryGetEntry
-  href: api/runtime/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry_
-  commentId: Overload:Aarthificial.Typewriter.References.EntryReference.TryGetEntry
-  isSpec: "True"
-  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry
-  nameWithType: EntryReference.TryGetEntry
-- uid: Aarthificial.Typewriter.References.EntryReference.TryGetEntry``1(``0@)
-  name: TryGetEntry<T>(out T)
-  href: api/runtime/Aarthificial.Typewriter.References.EntryReference.html#Aarthificial_Typewriter_References_EntryReference_TryGetEntry__1___0__
-  commentId: M:Aarthificial.Typewriter.References.EntryReference.TryGetEntry``1(``0@)
-  name.vb: TryGetEntry(Of T)(T)
-  fullName: Aarthificial.Typewriter.References.EntryReference.TryGetEntry<T>(out T)
-  fullName.vb: Aarthificial.Typewriter.References.EntryReference.TryGetEntry(Of T)(T)
-  nameWithType: EntryReference.TryGetEntry<T>(out T)
-  nameWithType.vb: EntryReference.TryGetEntry(Of T)(T)
 - uid: Aarthificial.Typewriter.Tools
   name: Aarthificial.Typewriter.Tools
   href: api/runtime/Aarthificial.Typewriter.Tools.html
