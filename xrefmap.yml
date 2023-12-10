@@ -180,6 +180,22 @@ references:
   isSpec: "True"
   fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Get
   nameWithType: Blackboard.Get
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.GetBool(System.Int32)
+  name: GetBool(int)
+  href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_GetBool_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.GetBool(System.Int32)
+  name.vb: GetBool(Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.GetBool(int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.GetBool(Integer)
+  nameWithType: Blackboard.GetBool(int)
+  nameWithType.vb: Blackboard.GetBool(Integer)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.GetBool*
+  name: GetBool
+  href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_GetBool_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.GetBool
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.GetBool
+  nameWithType: Blackboard.GetBool
 - uid: Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator
   name: GetEnumerator()
   href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_GetEnumerator
@@ -193,6 +209,22 @@ references:
   isSpec: "True"
   fullName: Aarthificial.Typewriter.Blackboards.Blackboard.GetEnumerator
   nameWithType: Blackboard.GetEnumerator
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.GetFloat(System.Int32)
+  name: GetFloat(int)
+  href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_GetFloat_System_Int32_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.GetFloat(System.Int32)
+  name.vb: GetFloat(Integer)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.GetFloat(int)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.GetFloat(Integer)
+  nameWithType: Blackboard.GetFloat(int)
+  nameWithType.vb: Blackboard.GetFloat(Integer)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.GetFloat*
+  name: GetFloat
+  href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_GetFloat_
+  commentId: Overload:Aarthificial.Typewriter.Blackboards.Blackboard.GetFloat
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.GetFloat
+  nameWithType: Blackboard.GetFloat
 - uid: Aarthificial.Typewriter.Blackboards.Blackboard.MergeWith(Aarthificial.Typewriter.Blackboards.IBlackboard)
   name: MergeWith(IBlackboard)
   href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_MergeWith_Aarthificial_Typewriter_Blackboards_IBlackboard_
@@ -276,6 +308,15 @@ references:
   isSpec: "True"
   fullName: Aarthificial.Typewriter.Blackboards.Blackboard.ReplaceWith
   nameWithType: Blackboard.ReplaceWith
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Boolean)
+  name: Set(int, bool)
+  href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Set_System_Int32_System_Boolean_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Boolean)
+  name.vb: Set(Integer, Boolean)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Set(int, bool)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.Set(Integer, Boolean)
+  nameWithType: Blackboard.Set(int, bool)
+  nameWithType.vb: Blackboard.Set(Integer, Boolean)
 - uid: Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Int32)
   name: Set(int, int)
   href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Set_System_Int32_System_Int32_
@@ -285,6 +326,15 @@ references:
   fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.Set(Integer, Integer)
   nameWithType: Blackboard.Set(int, int)
   nameWithType.vb: Blackboard.Set(Integer, Integer)
+- uid: Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Single)
+  name: Set(int, float)
+  href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Set_System_Int32_System_Single_
+  commentId: M:Aarthificial.Typewriter.Blackboards.Blackboard.Set(System.Int32,System.Single)
+  name.vb: Set(Integer, Single)
+  fullName: Aarthificial.Typewriter.Blackboards.Blackboard.Set(int, float)
+  fullName.vb: Aarthificial.Typewriter.Blackboards.Blackboard.Set(Integer, Single)
+  nameWithType: Blackboard.Set(int, float)
+  nameWithType.vb: Blackboard.Set(Integer, Single)
 - uid: Aarthificial.Typewriter.Blackboards.Blackboard.Set*
   name: Set
   href: api/runtime/Aarthificial.Typewriter.Blackboards.Blackboard.html#Aarthificial_Typewriter_Blackboards_Blackboard_Set_
@@ -989,6 +1039,19 @@ references:
   isSpec: "True"
   fullName: Aarthificial.Typewriter.Editor.Common.TypewriterUtils.RecreateRelations
   nameWithType: TypewriterUtils.RecreateRelations
+- uid: Aarthificial.Typewriter.Editor.Common.TypewriterUtils.RefreshDatabase
+  name: RefreshDatabase()
+  href: api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterUtils.html#Aarthificial_Typewriter_Editor_Common_TypewriterUtils_RefreshDatabase
+  commentId: M:Aarthificial.Typewriter.Editor.Common.TypewriterUtils.RefreshDatabase
+  fullName: Aarthificial.Typewriter.Editor.Common.TypewriterUtils.RefreshDatabase()
+  nameWithType: TypewriterUtils.RefreshDatabase()
+- uid: Aarthificial.Typewriter.Editor.Common.TypewriterUtils.RefreshDatabase*
+  name: RefreshDatabase
+  href: api/editor/Aarthificial.Typewriter.Editor.Common.TypewriterUtils.html#Aarthificial_Typewriter_Editor_Common_TypewriterUtils_RefreshDatabase_
+  commentId: Overload:Aarthificial.Typewriter.Editor.Common.TypewriterUtils.RefreshDatabase
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Editor.Common.TypewriterUtils.RefreshDatabase
+  nameWithType: TypewriterUtils.RefreshDatabase
 - uid: Aarthificial.Typewriter.Editor.Descriptors
   name: Aarthificial.Typewriter.Editor.Descriptors
   href: api/editor/Aarthificial.Typewriter.Editor.Descriptors.html
@@ -2386,6 +2449,19 @@ references:
   commentId: F:Aarthificial.Typewriter.Editor.Lists.ExpandableListView.List
   fullName: Aarthificial.Typewriter.Editor.Lists.ExpandableListView.List
   nameWithType: ExpandableListView.List
+- uid: Aarthificial.Typewriter.Editor.Lists.ExpandableListView.MaxHeight
+  name: MaxHeight
+  href: api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.html#Aarthificial_Typewriter_Editor_Lists_ExpandableListView_MaxHeight
+  commentId: P:Aarthificial.Typewriter.Editor.Lists.ExpandableListView.MaxHeight
+  fullName: Aarthificial.Typewriter.Editor.Lists.ExpandableListView.MaxHeight
+  nameWithType: ExpandableListView.MaxHeight
+- uid: Aarthificial.Typewriter.Editor.Lists.ExpandableListView.MaxHeight*
+  name: MaxHeight
+  href: api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.html#Aarthificial_Typewriter_Editor_Lists_ExpandableListView_MaxHeight_
+  commentId: Overload:Aarthificial.Typewriter.Editor.Lists.ExpandableListView.MaxHeight
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Editor.Lists.ExpandableListView.MaxHeight
+  nameWithType: ExpandableListView.MaxHeight
 - uid: Aarthificial.Typewriter.Editor.Lists.ExpandableListView.Text
   name: Text
   href: api/editor/Aarthificial.Typewriter.Editor.Lists.ExpandableListView.html#Aarthificial_Typewriter_Editor_Lists_ExpandableListView_Text
@@ -3445,6 +3521,19 @@ references:
   commentId: T:Aarthificial.Typewriter.Editor.TypewriterEditor
   fullName: Aarthificial.Typewriter.Editor.TypewriterEditor
   nameWithType: TypewriterEditor
+- uid: Aarthificial.Typewriter.Editor.TypewriterEditor.AddItemsToMenu(UnityEditor.GenericMenu)
+  name: AddItemsToMenu(GenericMenu)
+  href: api/editor/Aarthificial.Typewriter.Editor.TypewriterEditor.html#Aarthificial_Typewriter_Editor_TypewriterEditor_AddItemsToMenu_UnityEditor_GenericMenu_
+  commentId: M:Aarthificial.Typewriter.Editor.TypewriterEditor.AddItemsToMenu(UnityEditor.GenericMenu)
+  fullName: Aarthificial.Typewriter.Editor.TypewriterEditor.AddItemsToMenu(UnityEditor.GenericMenu)
+  nameWithType: TypewriterEditor.AddItemsToMenu(GenericMenu)
+- uid: Aarthificial.Typewriter.Editor.TypewriterEditor.AddItemsToMenu*
+  name: AddItemsToMenu
+  href: api/editor/Aarthificial.Typewriter.Editor.TypewriterEditor.html#Aarthificial_Typewriter_Editor_TypewriterEditor_AddItemsToMenu_
+  commentId: Overload:Aarthificial.Typewriter.Editor.TypewriterEditor.AddItemsToMenu
+  isSpec: "True"
+  fullName: Aarthificial.Typewriter.Editor.TypewriterEditor.AddItemsToMenu
+  nameWithType: TypewriterEditor.AddItemsToMenu
 - uid: Aarthificial.Typewriter.Editor.TypewriterEditor.CreateGUI
   name: CreateGUI()
   href: api/editor/Aarthificial.Typewriter.Editor.TypewriterEditor.html#Aarthificial_Typewriter_Editor_TypewriterEditor_CreateGUI
