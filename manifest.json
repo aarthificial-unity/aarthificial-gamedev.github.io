@@ -1,4 +1,5 @@
 {
+  "homepages": [],
   "source_base_path": "/github/workspace/.docfx",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -1253,6 +1254,7 @@
       "version": ""
     }
   ],
+  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
